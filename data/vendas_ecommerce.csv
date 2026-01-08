@@ -1,0 +1,1501 @@
+venda_id,data,produto,categoria_produto,canal,campanha,receita,custo,custo_marketing
+1000,2024-09-26,Mesa Escritório,Móveis,Orgânico,Nenhuma,594.35,412.02,0.0
+1001,2024-02-08,Teclado Mecânico,Periféricos,Email Marketing,Verão Ofertas,278.24,193.81,47.83
+1002,2024-01-09,Notebook Pro,Eletrônicos,Facebook Ads,Semana Tech,3297.81,2152.54,59.26
+1003,2024-11-23,Mesa Escritório,Móveis,Orgânico,Nenhuma,580.6,398.64,0.0
+1004,2024-03-03,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1126.59,697.32,78.64
+1005,2024-01-09,Cadeira Gamer,Móveis,Google Ads,Black Friday,762.29,515.83,36.73
+1006,2024-02-12,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1867.11,1133.78,0.0
+1007,2024-12-04,Mesa Escritório,Móveis,Facebook Ads,Nenhuma,645.61,401.24,51.57
+1008,2024-01-31,"Monitor 27""",Periféricos,Email Marketing,Verão Ofertas,1217.37,752.77,19.97
+1009,2024-10-28,Smartphone X,Eletrônicos,Email Marketing,Institucional,2041.38,1419.91,68.58
+1010,2024-01-09,Mesa Escritório,Móveis,Email Marketing,Verão Ofertas,551.12,331.89,34.5
+1011,2024-11-25,Teclado Mecânico,Periféricos,Facebook Ads,Semana Tech,282.28,171.1,62.95
+1012,2024-12-13,Smartphone X,Eletrônicos,Google Ads,Verão Ofertas,1890.52,1289.14,35.03
+1013,2024-06-01,Notebook Pro,Eletrônicos,Google Ads,Verão Ofertas,3251.67,1993.71,19.08
+1014,2024-08-14,Teclado Mecânico,Periféricos,Email Marketing,Nenhuma,309.96,216.07,68.54
+1015,2024-08-03,Cadeira Gamer,Móveis,Facebook Ads,Institucional,852.7,542.88,70.03
+1016,2024-05-15,Mesa Escritório,Móveis,Email Marketing,Black Friday,641.95,394.78,25.58
+1017,2024-09-18,"Monitor 27""",Periféricos,Email Marketing,Verão Ofertas,1142.39,735.83,63.52
+1018,2024-10-17,Mesa Escritório,Móveis,Influencers,Verão Ofertas,628.81,399.42,78.81
+1019,2024-11-05,Mesa Escritório,Móveis,Facebook Ads,Nenhuma,617.4,372.1,63.73
+1020,2024-12-29,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1160.96,729.99,24.91
+1021,2024-11-11,Mesa Escritório,Móveis,Email Marketing,Institucional,598.76,406.5,48.71
+1022,2024-06-02,Mesa Escritório,Móveis,Influencers,Institucional,609.58,420.25,182.32
+1023,2024-05-31,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,570.8,365.53,68.09
+1024,2024-04-19,"Monitor 27""",Periféricos,Google Ads,Verão Ofertas,1139.8,793.69,55.58
+1025,2024-06-08,"Monitor 27""",Periféricos,Google Ads,Semana Tech,1095.05,751.08,77.58
+1026,2024-01-13,Smartphone X,Eletrônicos,Email Marketing,Institucional,1833.91,1185.01,30.1
+1027,2024-09-22,Cadeira Gamer,Móveis,Email Marketing,Institucional,845.43,541.33,49.56
+1028,2024-02-07,Teclado Mecânico,Periféricos,Influencers,Nenhuma,289.14,183.18,171.95
+1029,2024-12-09,Notebook Pro,Eletrônicos,Google Ads,Nenhuma,3663.35,2369.83,60.82
+1030,2024-11-29,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1299.91,821.41,33.95
+1031,2024-12-27,"Monitor 27""",Periféricos,Facebook Ads,Semana Tech,1281.87,853.09,33.96
+1032,2024-07-20,Smartphone X,Eletrônicos,Facebook Ads,Nenhuma,2103.62,1358.59,29.99
+1033,2024-12-15,Mesa Escritório,Móveis,Google Ads,Verão Ofertas,586.05,365.63,15.39
+1034,2024-05-08,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1256.61,808.07,0.0
+1035,2024-12-30,Cadeira Gamer,Móveis,Influencers,Black Friday,809.86,486.77,192.85
+1036,2024-02-04,Mesa Escritório,Móveis,Orgânico,Nenhuma,571.05,354.06,0.0
+1037,2024-06-08,Teclado Mecânico,Periféricos,Google Ads,Institucional,297.4,195.11,22.48
+1038,2024-11-08,"Monitor 27""",Periféricos,Facebook Ads,Semana Tech,1274.02,802.81,46.26
+1039,2024-01-08,Cadeira Gamer,Móveis,Influencers,Black Friday,804.22,490.79,155.02
+1040,2024-02-18,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,1844.21,1191.9,68.96
+1041,2024-07-19,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1190.13,770.49,0.0
+1042,2024-04-06,"Monitor 27""",Periféricos,Google Ads,Institucional,1241.38,819.08,16.1
+1043,2024-01-09,Notebook Pro,Eletrônicos,Google Ads,Verão Ofertas,3625.66,2523.17,15.86
+1044,2024-02-16,Teclado Mecânico,Periféricos,Facebook Ads,Black Friday,275.3,165.28,41.2
+1045,2024-12-14,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,329.84,208.7,0.0
+1046,2024-10-27,Cadeira Gamer,Móveis,Influencers,Verão Ofertas,773.14,489.65,92.98
+1047,2024-06-11,Mesa Escritório,Móveis,Google Ads,Black Friday,560.45,352.19,74.59
+1048,2024-09-01,Mesa Escritório,Móveis,Facebook Ads,Institucional,561.45,377.77,74.11
+1049,2024-03-09,"Monitor 27""",Periféricos,Facebook Ads,Verão Ofertas,1091.0,678.55,61.45
+1050,2024-06-04,Mesa Escritório,Móveis,Facebook Ads,Nenhuma,655.13,440.01,30.37
+1051,2024-01-03,Cadeira Gamer,Móveis,Google Ads,Institucional,843.72,566.03,50.51
+1052,2024-10-24,Mesa Escritório,Móveis,Email Marketing,Nenhuma,613.32,401.95,23.42
+1053,2024-01-23,Notebook Pro,Eletrônicos,Influencers,Verão Ofertas,3181.4,2172.95,133.29
+1054,2024-08-19,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,327.54,220.22,26.2
+1055,2024-03-30,Teclado Mecânico,Periféricos,Influencers,Semana Tech,284.3,185.89,67.55
+1056,2024-04-26,Mesa Escritório,Móveis,Facebook Ads,Verão Ofertas,577.91,372.53,46.57
+1057,2024-11-27,Cadeira Gamer,Móveis,Facebook Ads,Nenhuma,784.93,474.33,78.36
+1058,2024-03-29,"Monitor 27""",Periféricos,Google Ads,Verão Ofertas,1095.47,705.32,58.16
+1059,2024-10-01,"Monitor 27""",Periféricos,Google Ads,Institucional,1204.28,792.42,26.77
+1060,2024-02-15,"Monitor 27""",Periféricos,Google Ads,Nenhuma,1223.69,825.87,13.41
+1061,2024-05-25,Mesa Escritório,Móveis,Influencers,Institucional,609.19,372.44,161.36
+1062,2024-12-17,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3415.28,2360.14,0.0
+1063,2024-06-04,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,273.8,181.95,54.03
+1064,2024-08-06,Cadeira Gamer,Móveis,Orgânico,Nenhuma,730.48,472.8,0.0
+1065,2024-08-10,Smartphone X,Eletrônicos,Influencers,Institucional,2135.5,1294.46,66.3
+1066,2024-12-01,"Monitor 27""",Periféricos,Google Ads,Nenhuma,1259.63,809.12,13.3
+1067,2024-08-10,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,733.68,508.64,53.26
+1068,2024-02-06,Cadeira Gamer,Móveis,Email Marketing,Black Friday,878.67,537.2,78.74
+1069,2024-05-12,"Monitor 27""",Periféricos,Facebook Ads,Nenhuma,1141.42,737.38,79.98
+1070,2024-02-18,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3270.52,2010.41,16.86
+1071,2024-08-17,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3656.17,2238.14,62.61
+1072,2024-05-31,Teclado Mecânico,Periféricos,Facebook Ads,Semana Tech,310.0,186.44,71.46
+1073,2024-06-05,Smartphone X,Eletrônicos,Google Ads,Verão Ofertas,2162.57,1319.74,60.43
+1074,2024-04-24,Mesa Escritório,Móveis,Orgânico,Nenhuma,591.84,386.12,0.0
+1075,2024-04-14,Teclado Mecânico,Periféricos,Email Marketing,Semana Tech,318.2,212.26,64.72
+1076,2024-06-16,"Monitor 27""",Periféricos,Influencers,Verão Ofertas,1239.42,857.35,187.11
+1077,2024-07-05,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,294.7,194.4,0.0
+1078,2024-01-09,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,278.44,182.21,0.0
+1079,2024-11-14,Teclado Mecânico,Periféricos,Influencers,Semana Tech,295.83,186.25,188.21
+1080,2024-10-13,Mesa Escritório,Móveis,Influencers,Black Friday,555.61,362.06,181.5
+1081,2024-06-24,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,294.87,189.63,0.0
+1082,2024-10-03,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,271.62,179.12,0.0
+1083,2024-04-07,Smartphone X,Eletrônicos,Facebook Ads,Verão Ofertas,1864.09,1295.17,76.96
+1084,2024-10-28,Mesa Escritório,Móveis,Influencers,Institucional,583.01,362.98,102.1
+1085,2024-07-03,Teclado Mecânico,Periféricos,Facebook Ads,Black Friday,288.44,186.08,19.73
+1086,2024-03-20,Cadeira Gamer,Móveis,Google Ads,Institucional,800.55,482.0,71.28
+1087,2024-02-12,Teclado Mecânico,Periféricos,Influencers,Semana Tech,271.56,171.89,54.11
+1088,2024-04-17,Smartphone X,Eletrônicos,Influencers,Nenhuma,2159.14,1420.47,169.3
+1089,2024-08-02,Cadeira Gamer,Móveis,Orgânico,Nenhuma,795.18,479.13,0.0
+1090,2024-10-29,Cadeira Gamer,Móveis,Orgânico,Nenhuma,823.08,556.96,0.0
+1091,2024-07-04,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,310.8,194.94,39.99
+1092,2024-03-29,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,639.74,433.12,46.19
+1093,2024-06-11,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3314.33,2108.99,0.0
+1094,2024-08-06,Cadeira Gamer,Móveis,Email Marketing,Black Friday,783.22,494.69,18.62
+1095,2024-02-28,Teclado Mecânico,Periféricos,Influencers,Nenhuma,288.1,187.58,167.61
+1096,2024-06-16,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,542.2,363.81,50.77
+1097,2024-08-14,Smartphone X,Eletrônicos,Influencers,Institucional,1980.28,1370.91,184.44
+1098,2024-08-04,Notebook Pro,Eletrônicos,Google Ads,Black Friday,3576.87,2475.61,70.27
+1099,2024-12-17,Mesa Escritório,Móveis,Influencers,Nenhuma,618.03,391.65,52.51
+1100,2024-06-16,Mesa Escritório,Móveis,Orgânico,Nenhuma,647.2,415.11,0.0
+1101,2024-12-20,Teclado Mecânico,Periféricos,Email Marketing,Nenhuma,293.22,202.43,36.52
+1102,2024-08-02,Mesa Escritório,Móveis,Orgânico,Nenhuma,603.53,388.63,0.0
+1103,2024-05-24,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,296.66,187.73,0.0
+1104,2024-10-28,Smartphone X,Eletrônicos,Influencers,Institucional,2092.75,1402.04,51.75
+1105,2024-05-07,Teclado Mecânico,Periféricos,Influencers,Semana Tech,300.26,194.17,64.11
+1106,2024-05-05,"Monitor 27""",Periféricos,Google Ads,Institucional,1262.02,818.92,70.23
+1107,2024-10-10,Smartphone X,Eletrônicos,Influencers,Black Friday,2180.65,1376.34,176.78
+1108,2024-08-22,"Monitor 27""",Periféricos,Influencers,Nenhuma,1245.44,792.44,189.42
+1109,2024-01-12,Notebook Pro,Eletrônicos,Influencers,Institucional,3673.87,2364.83,76.35
+1110,2024-05-14,Notebook Pro,Eletrônicos,Email Marketing,Verão Ofertas,3746.94,2581.29,11.82
+1111,2024-07-09,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,276.96,169.45,112.0
+1112,2024-07-28,"Monitor 27""",Periféricos,Google Ads,Black Friday,1272.96,768.19,79.98
+1113,2024-03-29,Smartphone X,Eletrônicos,Influencers,Nenhuma,2001.16,1362.53,76.96
+1114,2024-05-18,Mesa Escritório,Móveis,Orgânico,Nenhuma,563.4,368.32,0.0
+1115,2024-10-25,Teclado Mecânico,Periféricos,Google Ads,Institucional,299.1,188.45,56.61
+1116,2024-04-07,Cadeira Gamer,Móveis,Email Marketing,Verão Ofertas,854.24,536.18,38.15
+1117,2024-03-16,Smartphone X,Eletrônicos,Influencers,Nenhuma,1945.55,1344.96,96.65
+1118,2024-12-02,Smartphone X,Eletrônicos,Facebook Ads,Institucional,1943.65,1221.66,19.81
+1119,2024-04-26,Teclado Mecânico,Periféricos,Facebook Ads,Black Friday,273.02,172.87,47.56
+1120,2024-08-11,Notebook Pro,Eletrônicos,Influencers,Black Friday,3833.97,2583.94,72.27
+1121,2024-07-07,"Monitor 27""",Periféricos,Influencers,Black Friday,1145.83,708.48,168.2
+1122,2024-08-21,"Monitor 27""",Periféricos,Email Marketing,Institucional,1281.5,885.74,49.44
+1123,2024-08-27,Mesa Escritório,Móveis,Influencers,Nenhuma,560.0,349.75,105.62
+1124,2024-08-22,Smartphone X,Eletrônicos,Google Ads,Nenhuma,2102.25,1354.91,37.18
+1125,2024-10-28,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,1928.49,1203.66,58.42
+1126,2024-11-29,Notebook Pro,Eletrônicos,Google Ads,Black Friday,3530.13,2358.29,25.33
+1127,2024-09-09,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,291.54,195.76,0.0
+1128,2024-07-26,Smartphone X,Eletrônicos,Google Ads,Institucional,2035.84,1223.43,38.23
+1129,2024-04-16,Smartphone X,Eletrônicos,Google Ads,Institucional,1901.08,1244.5,11.99
+1130,2024-04-13,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,290.14,185.82,0.0
+1131,2024-01-01,Notebook Pro,Eletrônicos,Google Ads,Institucional,3804.69,2558.24,17.71
+1132,2024-07-23,Cadeira Gamer,Móveis,Influencers,Semana Tech,864.8,577.84,69.32
+1133,2024-06-28,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3597.55,2331.35,0.0
+1134,2024-11-09,Cadeira Gamer,Móveis,Influencers,Black Friday,756.26,512.73,122.24
+1135,2024-12-28,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1121.07,706.97,0.0
+1136,2024-01-24,Cadeira Gamer,Móveis,Google Ads,Semana Tech,859.34,591.94,35.06
+1137,2024-08-23,Cadeira Gamer,Móveis,Email Marketing,Verão Ofertas,868.32,567.02,39.04
+1138,2024-02-19,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1998.9,1317.96,0.0
+1139,2024-11-14,"Monitor 27""",Periféricos,Facebook Ads,Institucional,1182.97,746.92,48.41
+1140,2024-09-04,Mesa Escritório,Móveis,Email Marketing,Black Friday,643.08,396.71,13.04
+1141,2024-01-25,"Monitor 27""",Periféricos,Influencers,Verão Ofertas,1142.85,783.53,90.79
+1142,2024-03-31,"Monitor 27""",Periféricos,Google Ads,Black Friday,1260.0,758.86,27.27
+1143,2024-07-22,Notebook Pro,Eletrônicos,Facebook Ads,Institucional,3457.49,2356.37,10.41
+1144,2024-06-29,Notebook Pro,Eletrônicos,Influencers,Verão Ofertas,3692.84,2265.89,69.65
+1145,2024-10-10,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1288.3,801.45,24.53
+1146,2024-06-27,Mesa Escritório,Móveis,Google Ads,Black Friday,596.81,390.53,22.28
+1147,2024-03-04,Notebook Pro,Eletrônicos,Email Marketing,Semana Tech,3585.63,2212.09,45.65
+1148,2024-04-14,Notebook Pro,Eletrônicos,Facebook Ads,Semana Tech,3490.73,2296.51,30.81
+1149,2024-01-13,"Monitor 27""",Periféricos,Google Ads,Black Friday,1240.56,801.12,51.39
+1150,2024-12-25,Notebook Pro,Eletrônicos,Email Marketing,Semana Tech,3618.56,2348.49,13.62
+1151,2024-11-11,Notebook Pro,Eletrônicos,Influencers,Black Friday,3563.29,2465.22,68.17
+1152,2024-03-04,Cadeira Gamer,Móveis,Google Ads,Nenhuma,849.71,535.5,24.7
+1153,2024-07-09,Teclado Mecânico,Periféricos,Influencers,Nenhuma,298.1,205.73,161.09
+1154,2024-04-22,Mesa Escritório,Móveis,Email Marketing,Nenhuma,616.84,413.59,19.76
+1155,2024-06-13,Teclado Mecânico,Periféricos,Facebook Ads,Verão Ofertas,296.03,193.54,26.99
+1156,2024-10-26,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,277.69,179.35,0.0
+1157,2024-03-22,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1239.54,867.17,0.0
+1158,2024-01-13,Cadeira Gamer,Móveis,Email Marketing,Semana Tech,729.32,439.05,17.29
+1159,2024-07-02,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1220.63,796.3,0.0
+1160,2024-10-01,Notebook Pro,Eletrônicos,Influencers,Nenhuma,3187.69,2062.71,61.41
+1161,2024-06-01,Teclado Mecânico,Periféricos,Influencers,Nenhuma,310.28,216.83,53.36
+1162,2024-10-05,Cadeira Gamer,Móveis,Influencers,Nenhuma,813.44,533.83,79.3
+1163,2024-06-30,Notebook Pro,Eletrônicos,Facebook Ads,Nenhuma,3485.22,2435.29,15.9
+1164,2024-10-03,Teclado Mecânico,Periféricos,Facebook Ads,Institucional,299.28,192.52,21.12
+1165,2024-12-02,Notebook Pro,Eletrônicos,Facebook Ads,Semana Tech,3441.85,2374.78,38.12
+1166,2024-12-02,Cadeira Gamer,Móveis,Orgânico,Nenhuma,775.15,516.34,0.0
+1167,2024-11-10,Mesa Escritório,Móveis,Google Ads,Verão Ofertas,638.77,413.69,64.03
+1168,2024-09-11,Teclado Mecânico,Periféricos,Facebook Ads,Verão Ofertas,284.77,186.52,39.28
+1169,2024-09-07,Notebook Pro,Eletrônicos,Email Marketing,Nenhuma,3470.6,2094.67,35.1
+1170,2024-07-12,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1258.84,879.76,60.64
+1171,2024-07-10,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1115.34,703.95,0.0
+1172,2024-03-04,Cadeira Gamer,Móveis,Google Ads,Verão Ofertas,789.33,522.59,63.38
+1173,2024-04-23,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,651.54,407.51,34.34
+1174,2024-07-26,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,2056.62,1363.24,59.88
+1175,2024-03-02,Notebook Pro,Eletrônicos,Facebook Ads,Semana Tech,3647.56,2511.09,26.24
+1176,2024-10-29,"Monitor 27""",Periféricos,Facebook Ads,Institucional,1268.23,779.56,19.79
+1177,2024-09-13,Cadeira Gamer,Móveis,Influencers,Nenhuma,776.73,534.07,192.26
+1178,2024-12-13,Cadeira Gamer,Móveis,Google Ads,Verão Ofertas,753.92,523.22,70.7
+1179,2024-01-19,Notebook Pro,Eletrônicos,Email Marketing,Nenhuma,3436.62,2205.67,41.62
+1180,2024-06-22,Notebook Pro,Eletrônicos,Facebook Ads,Nenhuma,3425.46,2062.01,77.63
+1181,2024-10-24,"Monitor 27""",Periféricos,Facebook Ads,Nenhuma,1133.09,732.52,20.59
+1182,2024-12-13,Teclado Mecânico,Periféricos,Email Marketing,Black Friday,301.36,182.05,66.27
+1183,2024-11-12,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,304.71,199.24,62.73
+1184,2024-01-24,Notebook Pro,Eletrônicos,Facebook Ads,Semana Tech,3625.83,2472.44,61.69
+1185,2024-03-21,Mesa Escritório,Móveis,Google Ads,Black Friday,606.2,406.8,17.85
+1186,2024-03-03,Notebook Pro,Eletrônicos,Facebook Ads,Nenhuma,3743.05,2598.81,77.26
+1187,2024-04-07,Cadeira Gamer,Móveis,Influencers,Institucional,850.35,566.83,110.73
+1188,2024-08-21,Cadeira Gamer,Móveis,Influencers,Institucional,820.46,567.55,106.3
+1189,2024-10-23,"Monitor 27""",Periféricos,Influencers,Black Friday,1315.0,802.82,108.28
+1190,2024-02-11,Smartphone X,Eletrônicos,Email Marketing,Black Friday,2070.0,1383.42,67.44
+1191,2024-11-20,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3283.99,2198.3,0.0
+1192,2024-09-23,"Monitor 27""",Periféricos,Influencers,Semana Tech,1246.32,820.83,93.45
+1193,2024-07-25,Teclado Mecânico,Periféricos,Facebook Ads,Nenhuma,273.55,181.38,57.76
+1194,2024-07-01,"Monitor 27""",Periféricos,Facebook Ads,Semana Tech,1200.8,750.06,68.07
+1195,2024-07-17,Teclado Mecânico,Periféricos,Email Marketing,Nenhuma,316.66,220.61,14.22
+1196,2024-01-12,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3346.28,2188.13,0.0
+1197,2024-04-14,Smartphone X,Eletrônicos,Facebook Ads,Semana Tech,2178.7,1357.94,50.54
+1198,2024-04-06,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1167.96,714.0,0.0
+1199,2024-11-17,Teclado Mecânico,Periféricos,Google Ads,Semana Tech,303.28,197.94,77.3
+1200,2024-05-09,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3488.4,2222.51,25.28
+1201,2024-12-02,Mesa Escritório,Móveis,Orgânico,Nenhuma,595.15,358.48,0.0
+1202,2024-10-01,Smartphone X,Eletrônicos,Google Ads,Verão Ofertas,1990.36,1196.5,14.08
+1203,2024-07-17,"Monitor 27""",Periféricos,Influencers,Institucional,1201.28,790.19,57.34
+1204,2024-08-26,Mesa Escritório,Móveis,Email Marketing,Verão Ofertas,655.08,416.6,46.65
+1205,2024-12-22,Cadeira Gamer,Móveis,Influencers,Black Friday,749.06,457.03,133.42
+1206,2024-04-25,Smartphone X,Eletrônicos,Influencers,Semana Tech,1820.84,1154.83,196.59
+1207,2024-06-27,Cadeira Gamer,Móveis,Orgânico,Nenhuma,723.4,500.87,0.0
+1208,2024-09-23,Notebook Pro,Eletrônicos,Influencers,Black Friday,3263.27,2050.89,192.55
+1209,2024-11-17,Teclado Mecânico,Periféricos,Influencers,Semana Tech,314.33,202.63,196.24
+1210,2024-01-18,Mesa Escritório,Móveis,Email Marketing,Nenhuma,592.47,393.3,48.77
+1211,2024-10-30,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1129.02,752.87,0.0
+1212,2024-02-15,Notebook Pro,Eletrônicos,Google Ads,Verão Ofertas,3409.99,2137.73,35.95
+1213,2024-05-26,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3245.7,2104.12,0.0
+1214,2024-03-09,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,606.62,403.1,76.25
+1215,2024-10-11,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1107.93,692.11,0.0
+1216,2024-03-24,Teclado Mecânico,Periféricos,Google Ads,Institucional,299.2,181.91,45.65
+1217,2024-02-14,Cadeira Gamer,Móveis,Influencers,Semana Tech,835.36,509.12,175.16
+1218,2024-11-04,Smartphone X,Eletrônicos,Influencers,Semana Tech,2102.89,1470.94,109.23
+1219,2024-04-18,Teclado Mecânico,Periféricos,Influencers,Nenhuma,291.42,183.67,77.31
+1220,2024-05-10,Cadeira Gamer,Móveis,Orgânico,Nenhuma,759.71,476.25,0.0
+1221,2024-02-27,Cadeira Gamer,Móveis,Google Ads,Black Friday,869.08,557.83,70.67
+1222,2024-04-01,"Monitor 27""",Periféricos,Google Ads,Semana Tech,1197.45,755.11,47.51
+1223,2024-09-20,Cadeira Gamer,Móveis,Orgânico,Nenhuma,869.08,543.34,0.0
+1224,2024-10-06,Teclado Mecânico,Periféricos,Email Marketing,Black Friday,287.7,197.69,20.51
+1225,2024-10-12,Cadeira Gamer,Móveis,Orgânico,Nenhuma,794.7,531.72,0.0
+1226,2024-12-10,Cadeira Gamer,Móveis,Google Ads,Semana Tech,762.92,497.73,74.55
+1227,2024-07-26,Smartphone X,Eletrônicos,Google Ads,Nenhuma,2177.43,1391.65,14.0
+1228,2024-12-26,Cadeira Gamer,Móveis,Google Ads,Semana Tech,800.89,483.37,61.32
+1229,2024-11-29,Notebook Pro,Eletrônicos,Influencers,Verão Ofertas,3764.14,2286.57,192.6
+1230,2024-11-21,Smartphone X,Eletrônicos,Influencers,Semana Tech,1864.32,1138.65,193.03
+1231,2024-07-08,Notebook Pro,Eletrônicos,Influencers,Nenhuma,3150.47,2177.7,90.58
+1232,2024-07-01,Mesa Escritório,Móveis,Facebook Ads,Nenhuma,633.18,385.13,56.31
+1233,2024-04-05,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,315.55,201.04,0.0
+1234,2024-01-13,Teclado Mecânico,Periféricos,Google Ads,Institucional,308.48,189.33,41.8
+1235,2024-01-03,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,312.73,205.36,0.0
+1236,2024-02-28,Mesa Escritório,Móveis,Email Marketing,Verão Ofertas,553.79,367.44,41.59
+1237,2024-02-13,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,306.83,197.57,0.0
+1238,2024-05-24,Teclado Mecânico,Periféricos,Influencers,Institucional,281.48,183.36,109.22
+1239,2024-03-21,Notebook Pro,Eletrônicos,Google Ads,Black Friday,3834.55,2328.72,65.49
+1240,2024-12-20,Cadeira Gamer,Móveis,Orgânico,Nenhuma,787.03,537.77,0.0
+1241,2024-07-20,Notebook Pro,Eletrônicos,Google Ads,Nenhuma,3392.94,2165.95,50.35
+1242,2024-01-25,Smartphone X,Eletrônicos,Google Ads,Verão Ofertas,1862.89,1216.15,73.05
+1243,2024-03-28,"Monitor 27""",Periféricos,Google Ads,Verão Ofertas,1238.66,800.1,53.74
+1244,2024-11-15,Notebook Pro,Eletrônicos,Email Marketing,Nenhuma,3516.42,2397.86,19.23
+1245,2024-05-05,Notebook Pro,Eletrônicos,Facebook Ads,Nenhuma,3453.95,2290.66,41.04
+1246,2024-10-30,Cadeira Gamer,Móveis,Email Marketing,Verão Ofertas,858.8,573.18,29.68
+1247,2024-07-24,Smartphone X,Eletrônicos,Google Ads,Nenhuma,2132.81,1480.59,56.39
+1248,2024-05-19,"Monitor 27""",Periféricos,Facebook Ads,Nenhuma,1190.8,718.72,41.68
+1249,2024-07-27,"Monitor 27""",Periféricos,Email Marketing,Black Friday,1163.02,763.57,23.06
+1250,2024-04-27,Smartphone X,Eletrônicos,Email Marketing,Black Friday,1984.15,1199.29,71.54
+1251,2024-02-10,"Monitor 27""",Periféricos,Influencers,Nenhuma,1206.51,843.35,180.18
+1252,2024-12-13,Smartphone X,Eletrônicos,Email Marketing,Institucional,2040.46,1282.53,39.63
+1253,2024-08-15,Mesa Escritório,Móveis,Google Ads,Semana Tech,621.8,395.26,64.4
+1254,2024-04-21,Smartphone X,Eletrônicos,Email Marketing,Verão Ofertas,1899.02,1325.58,67.05
+1255,2024-07-14,Cadeira Gamer,Móveis,Influencers,Institucional,812.78,534.22,187.89
+1256,2024-03-19,Mesa Escritório,Móveis,Orgânico,Nenhuma,656.59,420.17,0.0
+1257,2024-10-22,Cadeira Gamer,Móveis,Influencers,Verão Ofertas,874.36,607.33,56.51
+1258,2024-05-21,Notebook Pro,Eletrônicos,Google Ads,Verão Ofertas,3820.89,2641.6,35.53
+1259,2024-04-30,"Monitor 27""",Periféricos,Influencers,Verão Ofertas,1121.99,695.62,162.92
+1260,2024-08-27,Mesa Escritório,Móveis,Google Ads,Institucional,548.89,373.69,19.99
+1261,2024-04-19,Cadeira Gamer,Móveis,Facebook Ads,Black Friday,861.14,544.89,65.35
+1262,2024-12-09,Cadeira Gamer,Móveis,Influencers,Institucional,850.94,550.6,167.73
+1263,2024-06-05,Notebook Pro,Eletrônicos,Influencers,Semana Tech,3438.22,2203.26,60.21
+1264,2024-08-21,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1189.57,751.26,65.42
+1265,2024-02-14,Mesa Escritório,Móveis,Email Marketing,Institucional,605.1,388.72,38.12
+1266,2024-12-24,Cadeira Gamer,Móveis,Orgânico,Nenhuma,813.51,568.76,0.0
+1267,2024-07-20,Mesa Escritório,Móveis,Facebook Ads,Institucional,568.57,342.43,38.99
+1268,2024-02-11,"Monitor 27""",Periféricos,Google Ads,Black Friday,1316.0,869.66,19.57
+1269,2024-01-09,Notebook Pro,Eletrônicos,Google Ads,Verão Ofertas,3192.25,2124.98,38.48
+1270,2024-06-05,Teclado Mecânico,Periféricos,Influencers,Semana Tech,293.95,179.58,195.35
+1271,2024-11-21,Cadeira Gamer,Móveis,Facebook Ads,Semana Tech,837.3,545.92,20.87
+1272,2024-10-25,Cadeira Gamer,Móveis,Orgânico,Nenhuma,832.55,538.09,0.0
+1273,2024-01-10,Smartphone X,Eletrônicos,Influencers,Verão Ofertas,2120.24,1304.11,54.55
+1274,2024-04-20,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1313.12,891.87,0.0
+1275,2024-04-19,Mesa Escritório,Móveis,Email Marketing,Verão Ofertas,658.41,419.1,35.19
+1276,2024-07-02,Mesa Escritório,Móveis,Influencers,Verão Ofertas,550.18,330.28,77.32
+1277,2024-03-07,Notebook Pro,Eletrônicos,Email Marketing,Institucional,3669.04,2550.99,31.82
+1278,2024-04-22,Mesa Escritório,Móveis,Influencers,Semana Tech,623.76,380.34,56.5
+1279,2024-04-09,Mesa Escritório,Móveis,Influencers,Black Friday,650.72,444.82,109.73
+1280,2024-01-28,Smartphone X,Eletrônicos,Email Marketing,Institucional,2179.02,1434.36,38.22
+1281,2024-01-16,Mesa Escritório,Móveis,Facebook Ads,Institucional,605.92,384.99,49.74
+1282,2024-03-29,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1101.8,743.71,0.0
+1283,2024-04-13,Mesa Escritório,Móveis,Google Ads,Institucional,553.17,385.09,43.97
+1284,2024-03-05,Notebook Pro,Eletrônicos,Email Marketing,Verão Ofertas,3650.46,2386.69,20.17
+1285,2024-12-16,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1195.1,779.09,0.0
+1286,2024-08-27,Mesa Escritório,Móveis,Facebook Ads,Nenhuma,582.06,365.33,64.24
+1287,2024-03-22,Smartphone X,Eletrônicos,Email Marketing,Black Friday,2192.74,1323.43,18.24
+1288,2024-11-21,Smartphone X,Eletrônicos,Google Ads,Semana Tech,1910.06,1234.52,78.57
+1289,2024-07-15,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1285.66,799.65,0.0
+1290,2024-05-17,Mesa Escritório,Móveis,Google Ads,Semana Tech,541.89,326.12,76.91
+1291,2024-04-14,Smartphone X,Eletrônicos,Google Ads,Black Friday,1899.76,1192.71,40.4
+1292,2024-07-02,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,740.97,509.28,38.53
+1293,2024-05-28,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1236.69,797.26,0.0
+1294,2024-09-11,Cadeira Gamer,Móveis,Influencers,Semana Tech,725.3,486.26,187.71
+1295,2024-12-21,"Monitor 27""",Periféricos,Influencers,Black Friday,1234.41,764.7,147.21
+1296,2024-09-02,Cadeira Gamer,Móveis,Email Marketing,Black Friday,868.78,541.36,14.41
+1297,2024-02-05,Cadeira Gamer,Móveis,Facebook Ads,Semana Tech,876.88,544.45,26.4
+1298,2024-03-10,Mesa Escritório,Móveis,Email Marketing,Nenhuma,644.39,419.21,23.55
+1299,2024-12-07,Notebook Pro,Eletrônicos,Facebook Ads,Nenhuma,3379.25,2363.37,10.57
+1300,2024-07-27,"Monitor 27""",Periféricos,Google Ads,Institucional,1290.5,900.62,60.3
+1301,2024-12-15,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,309.62,205.68,0.0
+1302,2024-02-28,Cadeira Gamer,Móveis,Google Ads,Black Friday,808.47,562.7,58.48
+1303,2024-05-09,"Monitor 27""",Periféricos,Email Marketing,Black Friday,1080.58,661.0,23.22
+1304,2024-10-25,Teclado Mecânico,Periféricos,Facebook Ads,Institucional,287.86,180.14,17.39
+1305,2024-03-21,Cadeira Gamer,Móveis,Email Marketing,Black Friday,822.58,494.67,30.97
+1306,2024-07-14,Teclado Mecânico,Periféricos,Email Marketing,Institucional,292.05,186.2,12.92
+1307,2024-09-25,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,1954.91,1341.12,48.8
+1308,2024-01-29,Mesa Escritório,Móveis,Facebook Ads,Institucional,550.44,353.24,26.85
+1309,2024-11-09,Cadeira Gamer,Móveis,Orgânico,Nenhuma,831.16,512.69,0.0
+1310,2024-10-15,Mesa Escritório,Móveis,Email Marketing,Semana Tech,634.28,427.25,41.18
+1311,2024-07-09,Cadeira Gamer,Móveis,Facebook Ads,Institucional,834.84,552.23,22.46
+1312,2024-08-08,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,315.58,204.0,190.84
+1313,2024-11-09,"Monitor 27""",Periféricos,Influencers,Nenhuma,1115.23,681.27,107.76
+1314,2024-07-06,Cadeira Gamer,Móveis,Google Ads,Black Friday,777.87,534.56,21.78
+1315,2024-12-24,Notebook Pro,Eletrônicos,Email Marketing,Institucional,3527.7,2439.59,63.35
+1316,2024-11-27,Mesa Escritório,Móveis,Google Ads,Nenhuma,654.77,426.54,53.11
+1317,2024-04-03,"Monitor 27""",Periféricos,Influencers,Semana Tech,1172.83,775.49,156.04
+1318,2024-05-24,Notebook Pro,Eletrônicos,Influencers,Institucional,3684.79,2252.19,65.35
+1319,2024-11-01,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1091.61,728.49,0.0
+1320,2024-01-11,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1938.1,1305.47,0.0
+1321,2024-12-31,Cadeira Gamer,Móveis,Facebook Ads,Black Friday,836.13,566.58,46.51
+1322,2024-10-20,Mesa Escritório,Móveis,Email Marketing,Semana Tech,655.28,457.7,65.23
+1323,2024-02-14,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3587.43,2423.26,0.0
+1324,2024-05-14,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,304.32,196.33,0.0
+1325,2024-04-21,"Monitor 27""",Periféricos,Influencers,Black Friday,1249.81,866.64,195.01
+1326,2024-05-18,Cadeira Gamer,Móveis,Google Ads,Black Friday,833.31,502.22,42.77
+1327,2024-04-09,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,737.43,443.88,66.65
+1328,2024-03-16,Notebook Pro,Eletrônicos,Influencers,Semana Tech,3563.74,2170.49,129.61
+1329,2024-09-06,Teclado Mecânico,Periféricos,Facebook Ads,Verão Ofertas,293.69,184.93,52.96
+1330,2024-01-25,Cadeira Gamer,Móveis,Google Ads,Black Friday,845.77,547.28,15.58
+1331,2024-07-19,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1231.09,766.92,0.0
+1332,2024-11-09,Teclado Mecânico,Periféricos,Email Marketing,Verão Ofertas,296.07,179.48,48.09
+1333,2024-06-04,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3813.06,2457.8,75.49
+1334,2024-11-02,Cadeira Gamer,Móveis,Orgânico,Nenhuma,814.93,539.93,0.0
+1335,2024-05-18,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2091.0,1429.8,0.0
+1336,2024-02-23,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,293.87,195.38,0.0
+1337,2024-11-07,Mesa Escritório,Móveis,Orgânico,Nenhuma,640.31,406.17,0.0
+1338,2024-10-30,Notebook Pro,Eletrônicos,Influencers,Verão Ofertas,3326.72,2094.97,148.18
+1339,2024-02-10,Cadeira Gamer,Móveis,Email Marketing,Semana Tech,796.24,503.04,66.26
+1340,2024-11-29,Smartphone X,Eletrônicos,Facebook Ads,Black Friday,2033.67,1344.11,15.36
+1341,2024-11-05,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,803.58,560.7,23.96
+1342,2024-07-18,Notebook Pro,Eletrônicos,Facebook Ads,Institucional,3583.82,2468.28,70.21
+1343,2024-10-31,Teclado Mecânico,Periféricos,Facebook Ads,Institucional,328.3,218.89,23.62
+1344,2024-12-09,Teclado Mecânico,Periféricos,Influencers,Nenhuma,320.5,202.7,189.12
+1345,2024-06-09,Cadeira Gamer,Móveis,Email Marketing,Semana Tech,789.14,522.5,47.64
+1346,2024-02-13,Cadeira Gamer,Móveis,Email Marketing,Semana Tech,750.54,469.81,38.76
+1347,2024-11-08,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3657.15,2350.97,0.0
+1348,2024-03-03,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,2060.74,1310.48,79.11
+1349,2024-03-31,Mesa Escritório,Móveis,Influencers,Institucional,612.01,369.7,177.21
+1350,2024-07-31,Cadeira Gamer,Móveis,Email Marketing,Nenhuma,798.84,507.67,28.25
+1351,2024-08-02,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,292.61,204.75,0.0
+1352,2024-12-22,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1215.4,730.01,71.81
+1353,2024-07-20,Mesa Escritório,Móveis,Google Ads,Semana Tech,614.17,397.27,19.49
+1354,2024-01-04,"Monitor 27""",Periféricos,Facebook Ads,Institucional,1201.13,780.86,65.03
+1355,2024-10-03,Mesa Escritório,Móveis,Orgânico,Nenhuma,654.56,412.65,0.0
+1356,2024-05-15,Mesa Escritório,Móveis,Facebook Ads,Verão Ofertas,656.17,435.99,68.06
+1357,2024-08-08,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,611.73,408.97,77.6
+1358,2024-06-26,Mesa Escritório,Móveis,Facebook Ads,Verão Ofertas,658.02,435.19,64.55
+1359,2024-01-26,Smartphone X,Eletrônicos,Influencers,Institucional,1867.25,1289.49,124.86
+1360,2024-09-14,Teclado Mecânico,Periféricos,Email Marketing,Verão Ofertas,281.97,179.8,52.68
+1361,2024-08-23,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,321.36,220.43,0.0
+1362,2024-04-02,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3843.45,2345.38,0.0
+1363,2024-09-22,Mesa Escritório,Móveis,Influencers,Institucional,562.95,360.18,76.6
+1364,2024-08-09,Cadeira Gamer,Móveis,Google Ads,Institucional,753.02,526.44,32.59
+1365,2024-08-02,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,274.78,190.7,73.85
+1366,2024-10-07,Cadeira Gamer,Móveis,Influencers,Verão Ofertas,853.9,563.79,94.29
+1367,2024-12-11,Notebook Pro,Eletrônicos,Influencers,Black Friday,3434.89,2376.2,101.92
+1368,2024-01-25,Teclado Mecânico,Periféricos,Facebook Ads,Nenhuma,276.35,180.12,61.61
+1369,2024-09-14,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1183.45,763.62,0.0
+1370,2024-08-30,Notebook Pro,Eletrônicos,Email Marketing,Verão Ofertas,3586.26,2193.13,27.79
+1371,2024-08-18,Notebook Pro,Eletrônicos,Email Marketing,Nenhuma,3508.82,2165.02,45.97
+1372,2024-03-17,Notebook Pro,Eletrônicos,Email Marketing,Verão Ofertas,3320.96,2190.57,28.6
+1373,2024-09-04,Teclado Mecânico,Periféricos,Email Marketing,Black Friday,299.61,195.72,58.13
+1374,2024-03-15,Smartphone X,Eletrônicos,Influencers,Institucional,2196.66,1415.34,169.48
+1375,2024-04-10,Cadeira Gamer,Móveis,Google Ads,Verão Ofertas,858.1,551.26,20.97
+1376,2024-08-04,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1811.58,1103.31,0.0
+1377,2024-11-01,Notebook Pro,Eletrônicos,Google Ads,Institucional,3590.27,2287.92,76.19
+1378,2024-07-10,Teclado Mecânico,Periféricos,Google Ads,Black Friday,275.34,187.62,36.24
+1379,2024-08-26,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1971.37,1360.67,0.0
+1380,2024-12-13,Notebook Pro,Eletrônicos,Email Marketing,Semana Tech,3824.31,2638.07,30.0
+1381,2024-06-24,Smartphone X,Eletrônicos,Influencers,Verão Ofertas,1960.85,1258.93,140.46
+1382,2024-08-30,Mesa Escritório,Móveis,Influencers,Nenhuma,634.13,400.16,168.79
+1383,2024-01-07,Smartphone X,Eletrônicos,Influencers,Nenhuma,1922.78,1328.71,55.15
+1384,2024-12-06,Notebook Pro,Eletrônicos,Email Marketing,Nenhuma,3685.84,2388.26,52.06
+1385,2024-07-01,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1218.35,841.86,0.0
+1386,2024-03-30,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,325.35,196.5,24.86
+1387,2024-05-10,Notebook Pro,Eletrônicos,Influencers,Semana Tech,3267.03,2249.21,153.68
+1388,2024-05-27,Notebook Pro,Eletrônicos,Email Marketing,Nenhuma,3479.01,2095.56,76.04
+1389,2024-05-02,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,810.32,517.2,13.68
+1390,2024-05-29,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1197.74,729.42,0.0
+1391,2024-11-01,Teclado Mecânico,Periféricos,Google Ads,Nenhuma,318.66,222.11,63.28
+1392,2024-05-02,Cadeira Gamer,Móveis,Orgânico,Nenhuma,860.64,560.89,0.0
+1393,2024-02-04,Cadeira Gamer,Móveis,Google Ads,Verão Ofertas,773.55,476.34,53.17
+1394,2024-01-07,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,323.24,211.26,0.0
+1395,2024-08-21,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,282.94,171.16,0.0
+1396,2024-10-02,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,600.9,367.42,46.81
+1397,2024-11-20,Notebook Pro,Eletrônicos,Google Ads,Nenhuma,3338.69,2303.54,48.47
+1398,2024-11-04,Mesa Escritório,Móveis,Influencers,Verão Ofertas,656.42,450.32,71.28
+1399,2024-12-23,Teclado Mecânico,Periféricos,Influencers,Semana Tech,328.97,229.97,99.84
+1400,2024-09-30,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,312.54,214.52,60.82
+1401,2024-09-16,Teclado Mecânico,Periféricos,Email Marketing,Verão Ofertas,296.8,188.52,63.0
+1402,2024-11-27,Cadeira Gamer,Móveis,Facebook Ads,Institucional,761.18,459.85,22.43
+1403,2024-10-13,Smartphone X,Eletrônicos,Influencers,Verão Ofertas,1913.45,1314.38,107.45
+1404,2024-02-17,Teclado Mecânico,Periféricos,Facebook Ads,Semana Tech,299.57,188.83,69.47
+1405,2024-01-26,Smartphone X,Eletrônicos,Email Marketing,Verão Ofertas,2138.8,1365.75,22.21
+1406,2024-02-04,Cadeira Gamer,Móveis,Email Marketing,Institucional,781.33,522.49,79.33
+1407,2024-07-02,Smartphone X,Eletrônicos,Facebook Ads,Semana Tech,1807.81,1096.12,23.77
+1408,2024-01-04,Mesa Escritório,Móveis,Google Ads,Institucional,541.61,367.8,65.44
+1409,2024-11-15,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3477.5,2174.19,0.0
+1410,2024-03-08,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,2081.81,1260.56,42.73
+1411,2024-01-28,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3546.09,2338.39,0.0
+1412,2024-09-19,Notebook Pro,Eletrônicos,Facebook Ads,Institucional,3187.32,2053.93,30.22
+1413,2024-01-05,Teclado Mecânico,Periféricos,Facebook Ads,Black Friday,326.33,201.61,10.04
+1414,2024-10-26,"Monitor 27""",Periféricos,Influencers,Nenhuma,1193.04,802.83,174.75
+1415,2024-10-24,Cadeira Gamer,Móveis,Orgânico,Nenhuma,871.88,563.0,0.0
+1416,2024-08-02,"Monitor 27""",Periféricos,Email Marketing,Black Friday,1155.86,772.36,22.64
+1417,2024-08-14,Cadeira Gamer,Móveis,Influencers,Verão Ofertas,851.45,585.1,186.92
+1418,2024-01-24,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,324.85,203.37,0.0
+1419,2024-10-15,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,857.76,528.74,42.56
+1420,2024-07-22,Mesa Escritório,Móveis,Orgânico,Nenhuma,606.65,374.16,0.0
+1421,2024-06-22,Teclado Mecânico,Periféricos,Facebook Ads,Semana Tech,324.82,217.07,18.81
+1422,2024-01-30,Cadeira Gamer,Móveis,Influencers,Black Friday,749.83,451.87,132.65
+1423,2024-10-10,"Monitor 27""",Periféricos,Facebook Ads,Semana Tech,1184.04,739.46,73.88
+1424,2024-12-11,"Monitor 27""",Periféricos,Google Ads,Verão Ofertas,1102.1,719.82,65.65
+1425,2024-06-24,Cadeira Gamer,Móveis,Email Marketing,Black Friday,867.49,541.8,52.19
+1426,2024-04-07,Teclado Mecânico,Periféricos,Influencers,Institucional,314.12,188.52,79.8
+1427,2024-10-07,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1856.05,1253.24,0.0
+1428,2024-06-08,Cadeira Gamer,Móveis,Google Ads,Nenhuma,828.29,544.08,79.74
+1429,2024-10-05,Teclado Mecânico,Periféricos,Google Ads,Institucional,291.97,176.34,19.97
+1430,2024-06-23,Teclado Mecânico,Periféricos,Google Ads,Nenhuma,316.77,198.98,76.46
+1431,2024-09-02,Cadeira Gamer,Móveis,Orgânico,Nenhuma,798.13,529.32,0.0
+1432,2024-10-30,Teclado Mecânico,Periféricos,Google Ads,Institucional,300.19,185.36,47.77
+1433,2024-07-03,"Monitor 27""",Periféricos,Google Ads,Semana Tech,1285.24,772.0,49.07
+1434,2024-07-14,Cadeira Gamer,Móveis,Orgânico,Nenhuma,730.38,502.31,0.0
+1435,2024-11-20,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1195.47,744.94,0.0
+1436,2024-02-17,Notebook Pro,Eletrônicos,Email Marketing,Verão Ofertas,3362.13,2185.32,30.51
+1437,2024-09-14,"Monitor 27""",Periféricos,Google Ads,Nenhuma,1162.14,752.56,59.68
+1438,2024-01-14,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3166.25,1956.58,0.0
+1439,2024-07-22,"Monitor 27""",Periféricos,Google Ads,Verão Ofertas,1239.99,818.9,14.06
+1440,2024-05-05,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2196.08,1403.3,0.0
+1441,2024-10-26,Mesa Escritório,Móveis,Orgânico,Nenhuma,626.99,435.12,0.0
+1442,2024-12-23,Teclado Mecânico,Periféricos,Facebook Ads,Black Friday,295.92,193.34,46.36
+1443,2024-02-21,Teclado Mecânico,Periféricos,Email Marketing,Semana Tech,309.24,198.83,47.4
+1444,2024-04-03,Cadeira Gamer,Móveis,Influencers,Semana Tech,721.3,489.43,169.98
+1445,2024-02-10,Mesa Escritório,Móveis,Influencers,Institucional,555.25,384.33,153.8
+1446,2024-08-21,Mesa Escritório,Móveis,Influencers,Black Friday,608.66,398.9,78.94
+1447,2024-05-14,Teclado Mecânico,Periféricos,Email Marketing,Verão Ofertas,312.44,197.73,76.92
+1448,2024-03-20,Teclado Mecânico,Periféricos,Google Ads,Institucional,306.21,201.52,57.11
+1449,2024-03-27,"Monitor 27""",Periféricos,Google Ads,Verão Ofertas,1128.41,734.49,14.78
+1450,2024-08-07,Cadeira Gamer,Móveis,Email Marketing,Nenhuma,785.31,517.22,26.09
+1451,2024-03-03,Mesa Escritório,Móveis,Orgânico,Nenhuma,577.74,389.31,0.0
+1452,2024-06-28,"Monitor 27""",Periféricos,Google Ads,Black Friday,1151.17,791.37,21.56
+1453,2024-06-15,Notebook Pro,Eletrônicos,Email Marketing,Black Friday,3356.31,2088.83,72.37
+1454,2024-06-20,"Monitor 27""",Periféricos,Google Ads,Semana Tech,1307.09,822.36,39.48
+1455,2024-07-19,Smartphone X,Eletrônicos,Facebook Ads,Verão Ofertas,1967.36,1331.39,20.29
+1456,2024-07-13,"Monitor 27""",Periféricos,Google Ads,Verão Ofertas,1244.16,853.26,20.01
+1457,2024-11-18,"Monitor 27""",Periféricos,Email Marketing,Institucional,1260.07,830.72,63.18
+1458,2024-02-24,"Monitor 27""",Periféricos,Google Ads,Nenhuma,1304.94,817.54,28.15
+1459,2024-04-18,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1300.99,859.03,76.22
+1460,2024-01-14,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3222.22,1991.89,0.0
+1461,2024-01-10,Mesa Escritório,Móveis,Facebook Ads,Nenhuma,653.35,454.02,74.7
+1462,2024-03-17,Cadeira Gamer,Móveis,Orgânico,Nenhuma,833.02,578.14,0.0
+1463,2024-06-17,"Monitor 27""",Periféricos,Influencers,Verão Ofertas,1230.23,806.49,117.76
+1464,2024-09-10,"Monitor 27""",Periféricos,Google Ads,Nenhuma,1319.95,800.85,22.88
+1465,2024-09-27,Cadeira Gamer,Móveis,Google Ads,Black Friday,754.06,486.16,42.7
+1466,2024-08-23,Mesa Escritório,Móveis,Google Ads,Nenhuma,560.38,341.68,16.49
+1467,2024-05-16,Smartphone X,Eletrônicos,Influencers,Semana Tech,2083.25,1285.52,107.04
+1468,2024-04-08,Smartphone X,Eletrônicos,Influencers,Black Friday,1890.19,1308.58,126.52
+1469,2024-04-08,Notebook Pro,Eletrônicos,Email Marketing,Semana Tech,3544.55,2280.16,46.24
+1470,2024-05-07,Mesa Escritório,Móveis,Facebook Ads,Black Friday,656.88,457.69,47.07
+1471,2024-01-16,Mesa Escritório,Móveis,Google Ads,Black Friday,631.36,387.25,54.3
+1472,2024-08-23,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,320.21,202.8,42.09
+1473,2024-06-26,"Monitor 27""",Periféricos,Google Ads,Black Friday,1274.83,882.95,42.05
+1474,2024-10-04,Mesa Escritório,Móveis,Google Ads,Nenhuma,625.6,435.52,39.25
+1475,2024-08-26,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1912.67,1329.57,0.0
+1476,2024-03-12,Mesa Escritório,Móveis,Google Ads,Institucional,553.58,354.83,50.13
+1477,2024-10-28,Mesa Escritório,Móveis,Email Marketing,Nenhuma,596.37,366.31,67.26
+1478,2024-07-31,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1127.1,704.66,0.0
+1479,2024-06-26,"Monitor 27""",Periféricos,Google Ads,Verão Ofertas,1287.78,879.3,73.89
+1480,2024-01-25,"Monitor 27""",Periféricos,Influencers,Institucional,1158.75,807.55,130.41
+1481,2024-04-12,Cadeira Gamer,Móveis,Google Ads,Nenhuma,792.67,489.5,50.38
+1482,2024-09-13,Mesa Escritório,Móveis,Orgânico,Nenhuma,555.32,346.99,0.0
+1483,2024-04-29,Cadeira Gamer,Móveis,Email Marketing,Verão Ofertas,727.87,477.16,15.32
+1484,2024-02-13,Cadeira Gamer,Móveis,Influencers,Nenhuma,741.83,498.84,163.82
+1485,2024-01-25,"Monitor 27""",Periféricos,Influencers,Semana Tech,1308.84,858.54,171.99
+1486,2024-07-31,Cadeira Gamer,Móveis,Google Ads,Semana Tech,728.19,440.32,32.15
+1487,2024-04-28,Teclado Mecânico,Periféricos,Facebook Ads,Verão Ofertas,296.99,189.73,10.32
+1488,2024-01-18,"Monitor 27""",Periféricos,Facebook Ads,Semana Tech,1136.27,742.15,39.42
+1489,2024-12-05,Smartphone X,Eletrônicos,Google Ads,Black Friday,1806.5,1181.98,16.07
+1490,2024-04-04,Mesa Escritório,Móveis,Orgânico,Nenhuma,582.85,402.02,0.0
+1491,2024-07-18,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1300.43,834.9,0.0
+1492,2024-07-04,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,284.65,187.44,31.72
+1493,2024-03-08,Smartphone X,Eletrônicos,Facebook Ads,Semana Tech,2120.22,1367.09,79.49
+1494,2024-11-15,Cadeira Gamer,Móveis,Google Ads,Semana Tech,801.11,499.6,71.58
+1495,2024-05-03,Teclado Mecânico,Periféricos,Google Ads,Black Friday,306.72,195.7,39.97
+1496,2024-07-14,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3572.43,2147.96,0.0
+1497,2024-09-01,Cadeira Gamer,Móveis,Email Marketing,Black Friday,839.69,550.23,14.31
+1498,2024-05-27,Cadeira Gamer,Móveis,Influencers,Nenhuma,852.56,563.51,149.86
+1499,2024-02-07,Teclado Mecânico,Periféricos,Email Marketing,Black Friday,304.61,207.18,27.11
+1500,2024-10-14,Mesa Escritório,Móveis,Influencers,Verão Ofertas,552.44,367.7,53.5
+1501,2024-05-15,Smartphone X,Eletrônicos,Email Marketing,Black Friday,2079.75,1428.33,38.12
+1502,2024-03-22,Notebook Pro,Eletrônicos,Email Marketing,Verão Ofertas,3514.17,2403.51,55.79
+1503,2024-11-15,Smartphone X,Eletrônicos,Influencers,Institucional,2018.88,1357.45,83.01
+1504,2024-07-20,Mesa Escritório,Móveis,Google Ads,Institucional,633.6,393.13,55.51
+1505,2024-12-30,Notebook Pro,Eletrônicos,Google Ads,Nenhuma,3340.37,2047.03,52.31
+1506,2024-10-16,"Monitor 27""",Periféricos,Email Marketing,Institucional,1107.05,749.99,68.13
+1507,2024-10-16,Notebook Pro,Eletrônicos,Facebook Ads,Institucional,3195.01,1968.15,41.35
+1508,2024-10-15,"Monitor 27""",Periféricos,Facebook Ads,Verão Ofertas,1159.06,804.11,70.89
+1509,2024-11-01,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1189.34,765.43,0.0
+1510,2024-10-02,"Monitor 27""",Periféricos,Influencers,Black Friday,1191.57,765.48,156.65
+1511,2024-09-10,Mesa Escritório,Móveis,Email Marketing,Verão Ofertas,548.27,352.8,70.95
+1512,2024-03-27,Mesa Escritório,Móveis,Orgânico,Nenhuma,572.54,360.72,0.0
+1513,2024-05-19,Notebook Pro,Eletrônicos,Facebook Ads,Verão Ofertas,3802.94,2649.5,13.41
+1514,2024-03-05,"Monitor 27""",Periféricos,Influencers,Semana Tech,1173.85,763.79,56.23
+1515,2024-12-17,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1283.28,804.91,0.0
+1516,2024-01-15,Smartphone X,Eletrônicos,Facebook Ads,Semana Tech,2034.86,1239.33,41.34
+1517,2024-12-25,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1269.23,870.04,0.0
+1518,2024-05-13,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1271.62,886.09,0.0
+1519,2024-01-09,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1275.1,890.75,0.0
+1520,2024-02-03,Teclado Mecânico,Periféricos,Google Ads,Semana Tech,283.34,180.5,69.66
+1521,2024-08-28,Mesa Escritório,Móveis,Email Marketing,Black Friday,556.9,372.94,28.4
+1522,2024-10-07,Cadeira Gamer,Móveis,Orgânico,Nenhuma,782.15,523.48,0.0
+1523,2024-04-03,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1089.63,701.9,0.0
+1524,2024-01-30,Mesa Escritório,Móveis,Google Ads,Nenhuma,590.81,365.54,29.07
+1525,2024-12-09,Cadeira Gamer,Móveis,Facebook Ads,Semana Tech,873.55,590.01,16.12
+1526,2024-09-21,Notebook Pro,Eletrônicos,Google Ads,Nenhuma,3407.54,2095.99,58.91
+1527,2024-11-03,Teclado Mecânico,Periféricos,Google Ads,Institucional,323.41,208.51,67.28
+1528,2024-09-09,Notebook Pro,Eletrônicos,Facebook Ads,Verão Ofertas,3162.43,2047.3,29.0
+1529,2024-12-23,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1290.18,845.27,0.0
+1530,2024-04-26,Cadeira Gamer,Móveis,Influencers,Semana Tech,877.99,533.76,89.58
+1531,2024-06-29,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3232.73,2056.62,0.0
+1532,2024-07-11,"Monitor 27""",Periféricos,Google Ads,Nenhuma,1276.11,769.31,42.44
+1533,2024-10-10,Mesa Escritório,Móveis,Facebook Ads,Nenhuma,557.79,376.37,30.22
+1534,2024-08-23,Cadeira Gamer,Móveis,Email Marketing,Institucional,780.59,514.5,58.24
+1535,2024-10-07,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1259.51,844.22,0.0
+1536,2024-09-24,Cadeira Gamer,Móveis,Email Marketing,Institucional,848.81,572.99,53.78
+1537,2024-11-09,"Monitor 27""",Periféricos,Facebook Ads,Semana Tech,1156.27,745.27,75.85
+1538,2024-05-20,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,289.84,180.78,24.31
+1539,2024-02-19,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3278.57,2146.02,21.78
+1540,2024-03-26,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,328.06,229.25,0.0
+1541,2024-06-06,Notebook Pro,Eletrônicos,Email Marketing,Semana Tech,3383.28,2324.67,61.08
+1542,2024-09-29,Teclado Mecânico,Periféricos,Influencers,Institucional,325.87,205.95,196.09
+1543,2024-11-19,Mesa Escritório,Móveis,Google Ads,Semana Tech,589.71,368.74,63.28
+1544,2024-08-25,Cadeira Gamer,Móveis,Email Marketing,Nenhuma,779.85,522.67,40.82
+1545,2024-08-13,Teclado Mecânico,Periféricos,Influencers,Black Friday,311.7,207.92,111.85
+1546,2024-06-02,Mesa Escritório,Móveis,Influencers,Black Friday,556.84,370.77,174.66
+1547,2024-08-25,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1959.79,1176.48,0.0
+1548,2024-01-19,Smartphone X,Eletrônicos,Influencers,Nenhuma,1834.94,1142.8,169.3
+1549,2024-04-08,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1986.9,1293.9,0.0
+1550,2024-12-29,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,299.35,184.01,0.0
+1551,2024-09-14,Smartphone X,Eletrônicos,Influencers,Black Friday,1860.22,1148.06,141.68
+1552,2024-05-02,Smartphone X,Eletrônicos,Influencers,Nenhuma,1933.59,1185.09,116.75
+1553,2024-03-01,Smartphone X,Eletrônicos,Facebook Ads,Verão Ofertas,2123.79,1369.43,45.39
+1554,2024-07-29,Cadeira Gamer,Móveis,Email Marketing,Verão Ofertas,807.19,535.98,32.91
+1555,2024-11-13,Smartphone X,Eletrônicos,Facebook Ads,Semana Tech,2004.66,1260.43,28.85
+1556,2024-11-15,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1133.74,744.02,0.0
+1557,2024-05-16,Cadeira Gamer,Móveis,Influencers,Black Friday,787.51,523.94,75.66
+1558,2024-04-18,"Monitor 27""",Periféricos,Email Marketing,Institucional,1296.29,802.24,71.25
+1559,2024-12-03,Teclado Mecânico,Periféricos,Influencers,Semana Tech,287.03,190.84,121.32
+1560,2024-03-07,Mesa Escritório,Móveis,Email Marketing,Black Friday,560.02,343.06,72.44
+1561,2024-03-15,Smartphone X,Eletrônicos,Google Ads,Verão Ofertas,1823.76,1263.58,63.81
+1562,2024-10-13,Mesa Escritório,Móveis,Orgânico,Nenhuma,649.5,410.99,0.0
+1563,2024-08-04,Mesa Escritório,Móveis,Orgânico,Nenhuma,604.59,399.59,0.0
+1564,2024-08-18,Notebook Pro,Eletrônicos,Email Marketing,Black Friday,3766.88,2364.94,34.14
+1565,2024-01-25,Cadeira Gamer,Móveis,Google Ads,Institucional,840.08,575.12,79.84
+1566,2024-02-27,Mesa Escritório,Móveis,Facebook Ads,Institucional,558.4,352.74,24.11
+1567,2024-04-29,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1277.93,770.03,0.0
+1568,2024-01-20,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1319.97,868.77,0.0
+1569,2024-11-07,Smartphone X,Eletrônicos,Facebook Ads,Black Friday,2051.63,1412.87,46.18
+1570,2024-10-03,Cadeira Gamer,Móveis,Email Marketing,Institucional,726.54,496.13,55.58
+1571,2024-04-13,"Monitor 27""",Periféricos,Facebook Ads,Institucional,1250.16,800.26,28.05
+1572,2024-08-27,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1273.11,835.16,0.0
+1573,2024-12-18,Smartphone X,Eletrônicos,Facebook Ads,Institucional,1863.7,1200.01,78.27
+1574,2024-04-03,Smartphone X,Eletrônicos,Facebook Ads,Black Friday,2047.37,1340.3,37.09
+1575,2024-07-29,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,309.2,193.57,186.89
+1576,2024-04-04,Mesa Escritório,Móveis,Email Marketing,Institucional,573.84,390.6,18.39
+1577,2024-11-19,Mesa Escritório,Móveis,Email Marketing,Semana Tech,584.25,361.19,76.04
+1578,2024-10-22,Teclado Mecânico,Periféricos,Facebook Ads,Semana Tech,311.38,217.34,22.28
+1579,2024-09-26,Mesa Escritório,Móveis,Orgânico,Nenhuma,632.7,382.02,0.0
+1580,2024-08-28,Teclado Mecânico,Periféricos,Influencers,Black Friday,323.28,210.67,76.16
+1581,2024-02-28,Cadeira Gamer,Móveis,Influencers,Nenhuma,877.67,527.11,144.17
+1582,2024-06-19,Notebook Pro,Eletrônicos,Email Marketing,Institucional,3178.64,2192.07,54.51
+1583,2024-02-11,Smartphone X,Eletrônicos,Facebook Ads,Nenhuma,1877.82,1147.6,43.17
+1584,2024-12-28,Mesa Escritório,Móveis,Email Marketing,Nenhuma,562.4,353.67,10.68
+1585,2024-04-17,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1830.11,1124.8,0.0
+1586,2024-04-26,Cadeira Gamer,Móveis,Influencers,Semana Tech,852.08,527.87,177.63
+1587,2024-09-22,Notebook Pro,Eletrônicos,Google Ads,Nenhuma,3246.92,2007.33,68.22
+1588,2024-02-02,Mesa Escritório,Móveis,Google Ads,Institucional,581.4,400.88,47.94
+1589,2024-09-11,Mesa Escritório,Móveis,Email Marketing,Verão Ofertas,642.56,404.46,72.35
+1590,2024-02-04,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3838.69,2517.73,0.0
+1591,2024-10-05,Cadeira Gamer,Móveis,Email Marketing,Institucional,729.65,438.67,42.84
+1592,2024-02-16,"Monitor 27""",Periféricos,Influencers,Semana Tech,1145.56,744.02,106.9
+1593,2024-05-28,Cadeira Gamer,Móveis,Influencers,Black Friday,726.13,479.74,166.48
+1594,2024-11-17,Cadeira Gamer,Móveis,Orgânico,Nenhuma,797.3,512.55,0.0
+1595,2024-07-04,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3517.33,2306.3,0.0
+1596,2024-03-17,Teclado Mecânico,Periféricos,Facebook Ads,Institucional,292.76,175.96,44.86
+1597,2024-09-14,Notebook Pro,Eletrônicos,Facebook Ads,Nenhuma,3739.32,2349.82,27.4
+1598,2024-05-13,"Monitor 27""",Periféricos,Influencers,Institucional,1228.96,824.31,196.97
+1599,2024-07-10,Cadeira Gamer,Móveis,Facebook Ads,Institucional,877.4,587.72,71.62
+1600,2024-10-26,Notebook Pro,Eletrônicos,Influencers,Verão Ofertas,3826.37,2580.25,150.81
+1601,2024-03-18,Mesa Escritório,Móveis,Google Ads,Nenhuma,629.41,422.97,67.46
+1602,2024-04-21,Cadeira Gamer,Móveis,Email Marketing,Verão Ofertas,741.8,485.15,20.63
+1603,2024-10-11,Cadeira Gamer,Móveis,Orgânico,Nenhuma,742.45,468.67,0.0
+1604,2024-08-30,Cadeira Gamer,Móveis,Email Marketing,Institucional,740.2,446.83,48.57
+1605,2024-01-01,Smartphone X,Eletrônicos,Email Marketing,Black Friday,2129.23,1404.42,26.56
+1606,2024-05-12,Teclado Mecânico,Periféricos,Google Ads,Black Friday,326.63,220.37,44.81
+1607,2024-12-07,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,307.94,211.72,0.0
+1608,2024-03-27,Mesa Escritório,Móveis,Email Marketing,Semana Tech,579.71,349.54,60.54
+1609,2024-09-17,"Monitor 27""",Periféricos,Influencers,Nenhuma,1168.15,817.1,131.49
+1610,2024-12-02,Smartphone X,Eletrônicos,Email Marketing,Black Friday,1976.99,1267.67,18.62
+1611,2024-05-05,Teclado Mecânico,Periféricos,Email Marketing,Black Friday,328.44,219.35,26.16
+1612,2024-01-13,Cadeira Gamer,Móveis,Orgânico,Nenhuma,762.22,473.02,0.0
+1613,2024-09-09,Mesa Escritório,Móveis,Email Marketing,Nenhuma,581.48,384.25,13.28
+1614,2024-12-25,Cadeira Gamer,Móveis,Influencers,Semana Tech,853.75,556.42,184.01
+1615,2024-08-08,Smartphone X,Eletrônicos,Facebook Ads,Institucional,2188.1,1510.88,38.22
+1616,2024-09-27,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,726.35,442.4,48.7
+1617,2024-03-28,Teclado Mecânico,Periféricos,Facebook Ads,Institucional,307.85,208.86,39.49
+1618,2024-05-05,Smartphone X,Eletrônicos,Email Marketing,Institucional,1876.83,1179.32,60.19
+1619,2024-11-24,"Monitor 27""",Periféricos,Influencers,Nenhuma,1224.51,756.58,136.56
+1620,2024-07-19,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3629.9,2453.61,56.13
+1621,2024-03-17,Mesa Escritório,Móveis,Google Ads,Semana Tech,556.49,371.53,14.17
+1622,2024-02-28,Notebook Pro,Eletrônicos,Facebook Ads,Nenhuma,3317.27,2187.59,12.32
+1623,2024-01-28,Notebook Pro,Eletrônicos,Facebook Ads,Semana Tech,3504.5,2196.64,37.63
+1624,2024-11-21,Teclado Mecânico,Periféricos,Email Marketing,Institucional,295.01,203.42,49.08
+1625,2024-04-28,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1971.94,1365.22,0.0
+1626,2024-11-30,Smartphone X,Eletrônicos,Email Marketing,Verão Ofertas,2002.3,1385.47,76.56
+1627,2024-01-18,Smartphone X,Eletrônicos,Email Marketing,Black Friday,2034.52,1255.78,62.59
+1628,2024-03-12,"Monitor 27""",Periféricos,Google Ads,Black Friday,1244.14,837.31,57.02
+1629,2024-03-13,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,278.09,169.38,134.53
+1630,2024-10-29,Cadeira Gamer,Móveis,Facebook Ads,Black Friday,794.87,540.11,29.55
+1631,2024-09-09,Teclado Mecânico,Periféricos,Influencers,Nenhuma,278.65,193.41,117.69
+1632,2024-01-27,Mesa Escritório,Móveis,Email Marketing,Black Friday,582.63,370.48,17.87
+1633,2024-01-28,Teclado Mecânico,Periféricos,Influencers,Semana Tech,327.5,201.95,154.27
+1634,2024-06-27,Teclado Mecânico,Periféricos,Email Marketing,Verão Ofertas,285.48,178.61,60.07
+1635,2024-09-21,Teclado Mecânico,Periféricos,Google Ads,Semana Tech,320.25,212.17,48.64
+1636,2024-02-15,Teclado Mecânico,Periféricos,Google Ads,Black Friday,327.76,207.62,42.25
+1637,2024-08-16,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1190.78,799.57,0.0
+1638,2024-04-12,Notebook Pro,Eletrônicos,Influencers,Black Friday,3657.75,2255.9,82.7
+1639,2024-11-29,Smartphone X,Eletrônicos,Facebook Ads,Semana Tech,2034.76,1401.89,19.71
+1640,2024-07-27,Smartphone X,Eletrônicos,Email Marketing,Institucional,2083.65,1358.68,46.02
+1641,2024-02-25,Teclado Mecânico,Periféricos,Facebook Ads,Black Friday,288.62,183.56,71.69
+1642,2024-08-17,Notebook Pro,Eletrônicos,Google Ads,Institucional,3828.72,2620.98,68.99
+1643,2024-04-18,Cadeira Gamer,Móveis,Email Marketing,Institucional,764.32,477.05,79.23
+1644,2024-04-05,Mesa Escritório,Móveis,Facebook Ads,Black Friday,560.13,382.44,70.23
+1645,2024-12-29,Mesa Escritório,Móveis,Google Ads,Verão Ofertas,573.81,390.93,11.16
+1646,2024-02-15,Notebook Pro,Eletrônicos,Facebook Ads,Institucional,3685.93,2571.16,60.32
+1647,2024-01-07,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3827.11,2546.86,0.0
+1648,2024-02-12,"Monitor 27""",Periféricos,Influencers,Nenhuma,1208.11,728.15,62.0
+1649,2024-05-28,Mesa Escritório,Móveis,Email Marketing,Verão Ofertas,633.0,394.22,74.14
+1650,2024-04-13,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1315.4,847.91,0.0
+1651,2024-05-25,Mesa Escritório,Móveis,Orgânico,Nenhuma,576.04,380.06,0.0
+1652,2024-05-13,Smartphone X,Eletrônicos,Google Ads,Nenhuma,1872.34,1309.88,42.87
+1653,2024-07-31,"Monitor 27""",Periféricos,Facebook Ads,Institucional,1131.65,701.25,14.97
+1654,2024-03-06,Smartphone X,Eletrônicos,Facebook Ads,Semana Tech,2120.36,1329.48,26.52
+1655,2024-10-19,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3313.64,2252.51,53.07
+1656,2024-11-14,Notebook Pro,Eletrônicos,Facebook Ads,Institucional,3400.05,2379.24,27.3
+1657,2024-10-02,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,730.54,498.24,27.66
+1658,2024-12-29,Notebook Pro,Eletrônicos,Influencers,Semana Tech,3640.53,2408.19,121.22
+1659,2024-08-08,Mesa Escritório,Móveis,Influencers,Black Friday,562.5,377.21,54.11
+1660,2024-02-16,"Monitor 27""",Periféricos,Facebook Ads,Semana Tech,1300.05,797.85,33.39
+1661,2024-10-20,Notebook Pro,Eletrônicos,Influencers,Semana Tech,3487.82,2216.88,189.12
+1662,2024-05-04,Smartphone X,Eletrônicos,Google Ads,Nenhuma,2098.65,1338.48,12.97
+1663,2024-06-24,"Monitor 27""",Periféricos,Email Marketing,Semana Tech,1137.21,762.72,75.55
+1664,2024-11-04,Cadeira Gamer,Móveis,Email Marketing,Black Friday,811.2,552.82,57.04
+1665,2024-01-10,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1236.33,814.12,0.0
+1666,2024-10-14,Mesa Escritório,Móveis,Email Marketing,Nenhuma,596.22,358.83,47.98
+1667,2024-03-14,Cadeira Gamer,Móveis,Email Marketing,Nenhuma,859.66,591.98,46.24
+1668,2024-02-02,Cadeira Gamer,Móveis,Facebook Ads,Black Friday,731.05,445.02,22.5
+1669,2024-04-14,"Monitor 27""",Periféricos,Email Marketing,Black Friday,1088.72,758.5,43.18
+1670,2024-08-21,Notebook Pro,Eletrônicos,Facebook Ads,Black Friday,3411.22,2077.6,42.58
+1671,2024-05-31,Mesa Escritório,Móveis,Email Marketing,Nenhuma,623.59,433.33,64.25
+1672,2024-09-08,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,276.06,184.35,72.72
+1673,2024-04-05,Cadeira Gamer,Móveis,Influencers,Black Friday,812.73,567.13,51.29
+1674,2024-01-10,Cadeira Gamer,Móveis,Orgânico,Nenhuma,765.0,500.96,0.0
+1675,2024-06-10,Teclado Mecânico,Periféricos,Email Marketing,Black Friday,274.5,187.7,45.08
+1676,2024-07-31,Notebook Pro,Eletrônicos,Facebook Ads,Verão Ofertas,3780.76,2607.38,67.59
+1677,2024-08-28,Teclado Mecânico,Periféricos,Google Ads,Black Friday,284.66,197.32,58.33
+1678,2024-03-12,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,314.07,212.85,156.18
+1679,2024-12-29,Notebook Pro,Eletrônicos,Influencers,Nenhuma,3438.17,2188.21,160.1
+1680,2024-05-18,Cadeira Gamer,Móveis,Email Marketing,Nenhuma,789.61,545.26,44.68
+1681,2024-12-17,Mesa Escritório,Móveis,Orgânico,Nenhuma,630.72,411.16,0.0
+1682,2024-08-01,Teclado Mecânico,Periféricos,Email Marketing,Semana Tech,273.99,172.43,57.17
+1683,2024-06-28,Cadeira Gamer,Móveis,Influencers,Nenhuma,725.62,444.6,192.14
+1684,2024-08-20,Notebook Pro,Eletrônicos,Facebook Ads,Institucional,3422.57,2217.74,37.77
+1685,2024-10-07,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,321.68,195.89,0.0
+1686,2024-04-11,Teclado Mecânico,Periféricos,Google Ads,Institucional,287.4,185.65,31.96
+1687,2024-02-18,Smartphone X,Eletrônicos,Google Ads,Verão Ofertas,2026.92,1280.02,68.65
+1688,2024-07-27,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3827.7,2382.34,0.0
+1689,2024-09-02,"Monitor 27""",Periféricos,Email Marketing,Nenhuma,1098.02,707.19,24.97
+1690,2024-10-16,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1203.58,732.08,0.0
+1691,2024-01-17,Cadeira Gamer,Móveis,Orgânico,Nenhuma,834.58,537.94,0.0
+1692,2024-03-19,Mesa Escritório,Móveis,Google Ads,Institucional,622.73,384.64,50.23
+1693,2024-10-14,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2149.2,1373.43,0.0
+1694,2024-04-09,Mesa Escritório,Móveis,Facebook Ads,Institucional,615.33,403.73,73.36
+1695,2024-02-11,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,324.7,223.82,121.93
+1696,2024-04-14,Cadeira Gamer,Móveis,Google Ads,Nenhuma,738.05,449.03,77.79
+1697,2024-07-24,Smartphone X,Eletrônicos,Facebook Ads,Nenhuma,1805.66,1236.99,44.9
+1698,2024-08-06,Mesa Escritório,Móveis,Influencers,Nenhuma,658.31,401.17,193.8
+1699,2024-07-09,Mesa Escritório,Móveis,Email Marketing,Verão Ofertas,571.98,371.5,18.56
+1700,2024-12-08,Cadeira Gamer,Móveis,Influencers,Nenhuma,859.6,552.24,105.32
+1701,2024-12-04,Cadeira Gamer,Móveis,Orgânico,Nenhuma,873.83,532.88,0.0
+1702,2024-01-25,Cadeira Gamer,Móveis,Influencers,Black Friday,824.36,523.48,72.68
+1703,2024-02-04,Mesa Escritório,Móveis,Email Marketing,Institucional,592.9,398.39,60.31
+1704,2024-05-20,Mesa Escritório,Móveis,Facebook Ads,Nenhuma,591.12,376.94,73.15
+1705,2024-12-28,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1142.63,720.68,0.0
+1706,2024-03-16,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,314.29,192.03,0.0
+1707,2024-03-02,Mesa Escritório,Móveis,Orgânico,Nenhuma,590.8,358.96,0.0
+1708,2024-07-11,Notebook Pro,Eletrônicos,Google Ads,Verão Ofertas,3163.1,2210.85,34.56
+1709,2024-09-01,"Monitor 27""",Periféricos,Google Ads,Black Friday,1259.99,761.4,30.41
+1710,2024-12-02,Teclado Mecânico,Periféricos,Email Marketing,Black Friday,317.11,209.34,54.13
+1711,2024-11-14,Notebook Pro,Eletrônicos,Email Marketing,Black Friday,3667.33,2440.26,60.72
+1712,2024-04-13,Mesa Escritório,Móveis,Google Ads,Semana Tech,588.82,392.07,65.94
+1713,2024-10-29,Notebook Pro,Eletrônicos,Facebook Ads,Black Friday,3768.13,2417.12,64.54
+1714,2024-01-23,"Monitor 27""",Periféricos,Google Ads,Black Friday,1198.33,806.56,50.83
+1715,2024-10-27,Teclado Mecânico,Periféricos,Facebook Ads,Black Friday,313.33,208.17,15.02
+1716,2024-11-09,Teclado Mecânico,Periféricos,Email Marketing,Nenhuma,315.1,196.3,20.95
+1717,2024-10-08,Smartphone X,Eletrônicos,Email Marketing,Institucional,2146.5,1475.55,55.44
+1718,2024-05-26,"Monitor 27""",Periféricos,Email Marketing,Black Friday,1153.65,700.46,40.67
+1719,2024-03-09,"Monitor 27""",Periféricos,Email Marketing,Institucional,1231.62,774.37,45.42
+1720,2024-10-18,Smartphone X,Eletrônicos,Email Marketing,Black Friday,1819.85,1120.48,10.86
+1721,2024-08-19,Teclado Mecânico,Periféricos,Facebook Ads,Verão Ofertas,329.4,208.2,12.72
+1722,2024-01-01,Cadeira Gamer,Móveis,Google Ads,Nenhuma,865.64,578.52,51.82
+1723,2024-12-31,Smartphone X,Eletrônicos,Email Marketing,Institucional,1974.26,1284.42,39.25
+1724,2024-08-28,"Monitor 27""",Periféricos,Google Ads,Black Friday,1189.15,811.82,52.75
+1725,2024-07-06,Smartphone X,Eletrônicos,Influencers,Semana Tech,1998.48,1290.46,147.72
+1726,2024-05-12,Mesa Escritório,Móveis,Facebook Ads,Institucional,540.63,354.4,65.74
+1727,2024-09-01,Cadeira Gamer,Móveis,Email Marketing,Verão Ofertas,793.79,526.57,56.86
+1728,2024-11-16,Notebook Pro,Eletrônicos,Facebook Ads,Verão Ofertas,3150.95,2057.21,56.74
+1729,2024-09-15,Teclado Mecânico,Periféricos,Influencers,Black Friday,316.47,194.73,54.6
+1730,2024-03-12,Notebook Pro,Eletrônicos,Google Ads,Institucional,3234.63,2154.48,55.81
+1731,2024-10-13,Notebook Pro,Eletrônicos,Email Marketing,Institucional,3335.13,2067.48,57.41
+1732,2024-05-06,Cadeira Gamer,Móveis,Email Marketing,Institucional,752.07,468.29,72.99
+1733,2024-03-28,"Monitor 27""",Periféricos,Email Marketing,Semana Tech,1187.87,735.52,14.61
+1734,2024-12-11,Mesa Escritório,Móveis,Influencers,Verão Ofertas,636.46,434.95,55.06
+1735,2024-03-21,Teclado Mecânico,Periféricos,Influencers,Semana Tech,308.91,201.82,118.1
+1736,2024-11-03,Teclado Mecânico,Periféricos,Email Marketing,Black Friday,277.75,180.94,47.21
+1737,2024-06-13,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1266.12,849.03,0.0
+1738,2024-02-16,"Monitor 27""",Periféricos,Facebook Ads,Verão Ofertas,1119.04,721.83,59.08
+1739,2024-02-16,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3420.63,2317.28,0.0
+1740,2024-09-12,Cadeira Gamer,Móveis,Facebook Ads,Nenhuma,852.85,532.88,16.05
+1741,2024-01-13,Teclado Mecânico,Periféricos,Google Ads,Institucional,312.16,195.9,57.25
+1742,2024-03-24,Smartphone X,Eletrônicos,Facebook Ads,Institucional,1983.78,1298.74,44.91
+1743,2024-02-21,Notebook Pro,Eletrônicos,Facebook Ads,Nenhuma,3785.87,2596.97,29.3
+1744,2024-07-10,Cadeira Gamer,Móveis,Orgânico,Nenhuma,777.92,542.01,0.0
+1745,2024-04-27,Notebook Pro,Eletrônicos,Google Ads,Nenhuma,3526.77,2333.39,39.82
+1746,2024-10-04,"Monitor 27""",Periféricos,Email Marketing,Black Friday,1187.58,724.58,51.36
+1747,2024-03-03,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1187.65,806.12,19.34
+1748,2024-07-03,Teclado Mecânico,Periféricos,Google Ads,Semana Tech,309.1,192.05,26.27
+1749,2024-03-11,Smartphone X,Eletrônicos,Influencers,Nenhuma,2196.68,1378.45,119.59
+1750,2024-03-25,Notebook Pro,Eletrônicos,Google Ads,Institucional,3505.44,2359.65,40.87
+1751,2024-08-17,"Monitor 27""",Periféricos,Influencers,Institucional,1178.06,784.66,86.72
+1752,2024-04-15,Cadeira Gamer,Móveis,Email Marketing,Black Friday,734.27,485.26,52.66
+1753,2024-09-13,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3621.21,2304.41,54.65
+1754,2024-09-22,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,1900.25,1274.91,52.57
+1755,2024-07-14,Teclado Mecânico,Periféricos,Google Ads,Institucional,309.46,192.3,68.5
+1756,2024-09-29,Mesa Escritório,Móveis,Orgânico,Nenhuma,611.15,391.2,0.0
+1757,2024-09-14,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,1905.29,1331.05,15.31
+1758,2024-03-22,"Monitor 27""",Periféricos,Influencers,Verão Ofertas,1200.0,733.11,131.77
+1759,2024-11-27,Cadeira Gamer,Móveis,Facebook Ads,Semana Tech,751.91,475.49,41.71
+1760,2024-02-11,Teclado Mecânico,Periféricos,Influencers,Institucional,312.28,202.38,138.78
+1761,2024-11-04,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,826.52,535.25,69.19
+1762,2024-03-23,"Monitor 27""",Periféricos,Email Marketing,Verão Ofertas,1265.18,815.82,43.38
+1763,2024-09-23,Notebook Pro,Eletrônicos,Facebook Ads,Black Friday,3687.44,2525.68,12.58
+1764,2024-02-12,Smartphone X,Eletrônicos,Facebook Ads,Institucional,1836.49,1183.78,35.11
+1765,2024-07-27,Teclado Mecânico,Periféricos,Influencers,Institucional,302.82,200.3,127.81
+1766,2024-01-20,"Monitor 27""",Periféricos,Influencers,Institucional,1100.38,739.85,75.59
+1767,2024-04-08,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1829.89,1109.25,0.0
+1768,2024-05-05,"Monitor 27""",Periféricos,Influencers,Verão Ofertas,1143.48,759.32,93.94
+1769,2024-12-15,"Monitor 27""",Periféricos,Influencers,Semana Tech,1216.45,822.55,197.01
+1770,2024-01-01,Teclado Mecânico,Periféricos,Facebook Ads,Nenhuma,301.99,203.87,58.68
+1771,2024-02-01,Mesa Escritório,Móveis,Email Marketing,Verão Ofertas,617.36,394.27,15.92
+1772,2024-01-04,Smartphone X,Eletrônicos,Influencers,Verão Ofertas,2181.6,1380.24,71.06
+1773,2024-05-23,Mesa Escritório,Móveis,Influencers,Institucional,593.13,377.45,148.62
+1774,2024-10-23,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1841.66,1273.95,0.0
+1775,2024-12-01,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1176.86,708.26,14.52
+1776,2024-05-03,Teclado Mecânico,Periféricos,Influencers,Semana Tech,318.06,222.08,181.47
+1777,2024-01-22,"Monitor 27""",Periféricos,Google Ads,Semana Tech,1235.97,856.6,31.25
+1778,2024-05-20,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3642.22,2506.28,0.0
+1779,2024-05-01,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2141.1,1426.1,0.0
+1780,2024-08-03,Smartphone X,Eletrônicos,Google Ads,Nenhuma,1872.84,1191.05,51.58
+1781,2024-12-27,Smartphone X,Eletrônicos,Google Ads,Verão Ofertas,2082.81,1271.23,43.08
+1782,2024-11-04,Mesa Escritório,Móveis,Google Ads,Nenhuma,553.17,344.29,50.07
+1783,2024-11-06,"Monitor 27""",Periféricos,Facebook Ads,Semana Tech,1137.21,779.73,41.65
+1784,2024-10-11,Teclado Mecânico,Periféricos,Google Ads,Institucional,309.4,209.54,77.11
+1785,2024-02-21,Notebook Pro,Eletrônicos,Google Ads,Nenhuma,3658.89,2377.44,64.76
+1786,2024-01-01,Mesa Escritório,Móveis,Facebook Ads,Institucional,616.63,428.82,50.74
+1787,2024-02-27,Smartphone X,Eletrônicos,Google Ads,Black Friday,2028.15,1406.29,38.52
+1788,2024-12-24,Teclado Mecânico,Periféricos,Email Marketing,Nenhuma,283.2,190.3,20.64
+1789,2024-02-23,Smartphone X,Eletrônicos,Email Marketing,Semana Tech,1983.39,1259.18,13.59
+1790,2024-08-10,Teclado Mecânico,Periféricos,Influencers,Black Friday,291.02,186.55,72.28
+1791,2024-09-19,Cadeira Gamer,Móveis,Email Marketing,Institucional,861.18,561.21,30.23
+1792,2024-03-27,Cadeira Gamer,Móveis,Email Marketing,Semana Tech,865.66,551.14,10.96
+1793,2024-03-28,"Monitor 27""",Periféricos,Facebook Ads,Verão Ofertas,1178.35,820.07,61.21
+1794,2024-04-11,Teclado Mecânico,Periféricos,Influencers,Black Friday,304.57,199.85,141.97
+1795,2024-11-02,Cadeira Gamer,Móveis,Google Ads,Nenhuma,789.4,526.58,77.29
+1796,2024-06-13,Notebook Pro,Eletrônicos,Influencers,Semana Tech,3597.44,2245.94,120.46
+1797,2024-10-01,Cadeira Gamer,Móveis,Facebook Ads,Nenhuma,755.95,482.61,67.97
+1798,2024-11-13,"Monitor 27""",Periféricos,Email Marketing,Institucional,1313.79,798.09,45.44
+1799,2024-08-24,Smartphone X,Eletrônicos,Facebook Ads,Verão Ofertas,1940.17,1166.73,64.62
+1800,2024-03-06,Smartphone X,Eletrônicos,Facebook Ads,Semana Tech,2149.66,1367.27,72.21
+1801,2024-04-01,Mesa Escritório,Móveis,Influencers,Semana Tech,607.92,397.83,140.9
+1802,2024-10-18,Mesa Escritório,Móveis,Facebook Ads,Verão Ofertas,643.15,449.9,15.26
+1803,2024-04-21,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3506.52,2334.86,15.03
+1804,2024-02-13,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3570.34,2355.2,56.74
+1805,2024-06-30,Cadeira Gamer,Móveis,Email Marketing,Black Friday,802.37,516.36,42.53
+1806,2024-07-14,Notebook Pro,Eletrônicos,Email Marketing,Nenhuma,3363.7,2198.14,42.43
+1807,2024-03-12,Notebook Pro,Eletrônicos,Email Marketing,Semana Tech,3417.76,2239.39,78.07
+1808,2024-10-08,Teclado Mecânico,Periféricos,Facebook Ads,Institucional,329.74,197.96,37.75
+1809,2024-11-17,Notebook Pro,Eletrônicos,Influencers,Semana Tech,3183.27,2153.83,58.0
+1810,2024-02-10,Smartphone X,Eletrônicos,Google Ads,Verão Ofertas,2056.85,1355.48,61.52
+1811,2024-11-10,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2039.4,1305.26,0.0
+1812,2024-07-25,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,284.74,190.82,0.0
+1813,2024-03-20,Teclado Mecânico,Periféricos,Influencers,Black Friday,278.06,181.57,142.32
+1814,2024-04-21,Mesa Escritório,Móveis,Influencers,Nenhuma,579.56,390.06,79.41
+1815,2024-08-16,Notebook Pro,Eletrônicos,Google Ads,Black Friday,3648.67,2359.62,69.34
+1816,2024-03-18,Teclado Mecânico,Periféricos,Google Ads,Nenhuma,286.06,192.54,27.07
+1817,2024-07-28,"Monitor 27""",Periféricos,Influencers,Black Friday,1188.6,773.78,177.89
+1818,2024-11-08,Notebook Pro,Eletrônicos,Facebook Ads,Nenhuma,3317.84,2270.71,60.92
+1819,2024-10-03,Smartphone X,Eletrônicos,Facebook Ads,Black Friday,1853.21,1247.59,33.61
+1820,2024-02-10,Smartphone X,Eletrônicos,Google Ads,Nenhuma,1955.3,1280.57,48.48
+1821,2024-04-11,Cadeira Gamer,Móveis,Orgânico,Nenhuma,807.09,485.18,0.0
+1822,2024-10-24,Mesa Escritório,Móveis,Google Ads,Nenhuma,555.32,349.39,26.19
+1823,2024-05-31,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,314.75,191.22,0.0
+1824,2024-10-16,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1083.39,727.65,0.0
+1825,2024-11-15,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,279.62,181.4,0.0
+1826,2024-06-02,"Monitor 27""",Periféricos,Email Marketing,Nenhuma,1300.49,811.34,41.85
+1827,2024-11-24,"Monitor 27""",Periféricos,Influencers,Black Friday,1130.48,738.33,186.28
+1828,2024-12-20,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1802.54,1206.17,0.0
+1829,2024-12-15,Mesa Escritório,Móveis,Influencers,Verão Ofertas,558.69,369.14,124.86
+1830,2024-01-04,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2021.89,1216.85,0.0
+1831,2024-12-18,Notebook Pro,Eletrônicos,Facebook Ads,Verão Ofertas,3793.81,2412.31,71.21
+1832,2024-07-07,Smartphone X,Eletrônicos,Google Ads,Institucional,1990.7,1321.53,10.07
+1833,2024-04-05,Cadeira Gamer,Móveis,Google Ads,Institucional,870.44,556.38,79.78
+1834,2024-07-31,Cadeira Gamer,Móveis,Email Marketing,Verão Ofertas,819.07,524.93,16.0
+1835,2024-03-25,Smartphone X,Eletrônicos,Facebook Ads,Black Friday,1913.61,1202.58,59.72
+1836,2024-02-28,Mesa Escritório,Móveis,Orgânico,Nenhuma,549.01,331.61,0.0
+1837,2024-07-11,Notebook Pro,Eletrônicos,Facebook Ads,Nenhuma,3560.38,2443.35,21.63
+1838,2024-06-03,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,284.27,188.36,0.0
+1839,2024-10-11,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1220.09,732.81,0.0
+1840,2024-09-16,Mesa Escritório,Móveis,Email Marketing,Verão Ofertas,600.4,376.01,30.34
+1841,2024-11-06,Notebook Pro,Eletrônicos,Email Marketing,Verão Ofertas,3534.95,2224.07,63.1
+1842,2024-05-28,Notebook Pro,Eletrônicos,Influencers,Institucional,3377.99,2062.26,154.9
+1843,2024-10-12,"Monitor 27""",Periféricos,Google Ads,Nenhuma,1254.52,776.66,21.55
+1844,2024-10-27,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1184.36,717.26,0.0
+1845,2024-04-09,Cadeira Gamer,Móveis,Email Marketing,Nenhuma,866.62,596.85,43.86
+1846,2024-09-14,Notebook Pro,Eletrônicos,Email Marketing,Verão Ofertas,3689.36,2527.38,55.85
+1847,2024-01-22,Mesa Escritório,Móveis,Influencers,Verão Ofertas,594.51,409.13,165.75
+1848,2024-10-08,Cadeira Gamer,Móveis,Google Ads,Nenhuma,744.42,518.41,78.84
+1849,2024-09-12,Cadeira Gamer,Móveis,Facebook Ads,Semana Tech,787.52,500.94,74.3
+1850,2024-07-23,Mesa Escritório,Móveis,Google Ads,Verão Ofertas,598.4,405.56,40.19
+1851,2024-04-03,Cadeira Gamer,Móveis,Orgânico,Nenhuma,849.64,591.02,0.0
+1852,2024-12-17,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3460.56,2354.78,55.94
+1853,2024-07-01,Cadeira Gamer,Móveis,Google Ads,Black Friday,721.52,482.81,12.26
+1854,2024-12-26,"Monitor 27""",Periféricos,Influencers,Institucional,1200.86,834.99,85.02
+1855,2024-05-25,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1282.57,822.54,0.0
+1856,2024-08-22,Cadeira Gamer,Móveis,Email Marketing,Black Friday,806.49,529.4,22.95
+1857,2024-04-17,Teclado Mecânico,Periféricos,Email Marketing,Semana Tech,322.28,211.02,66.73
+1858,2024-11-27,Smartphone X,Eletrônicos,Influencers,Institucional,2111.21,1445.27,195.99
+1859,2024-03-10,"Monitor 27""",Periféricos,Facebook Ads,Verão Ofertas,1216.16,802.21,54.08
+1860,2024-05-14,Smartphone X,Eletrônicos,Google Ads,Semana Tech,1802.75,1178.9,19.65
+1861,2024-04-24,Mesa Escritório,Móveis,Google Ads,Verão Ofertas,626.21,420.14,66.46
+1862,2024-07-23,Notebook Pro,Eletrônicos,Influencers,Nenhuma,3226.55,2150.15,165.96
+1863,2024-09-23,Notebook Pro,Eletrônicos,Influencers,Verão Ofertas,3815.41,2391.6,129.28
+1864,2024-09-08,"Monitor 27""",Periféricos,Google Ads,Verão Ofertas,1169.48,720.46,20.03
+1865,2024-11-05,Notebook Pro,Eletrônicos,Influencers,Nenhuma,3704.61,2363.66,172.62
+1866,2024-10-30,Cadeira Gamer,Móveis,Facebook Ads,Nenhuma,732.66,464.56,44.64
+1867,2024-01-22,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,285.33,189.8,0.0
+1868,2024-05-20,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1120.41,700.04,29.37
+1869,2024-08-15,Smartphone X,Eletrônicos,Google Ads,Semana Tech,2035.14,1392.19,26.16
+1870,2024-11-03,Teclado Mecânico,Periféricos,Facebook Ads,Institucional,302.4,195.44,20.61
+1871,2024-11-02,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1084.15,693.09,0.0
+1872,2024-06-05,"Monitor 27""",Periféricos,Email Marketing,Semana Tech,1161.15,717.76,58.63
+1873,2024-02-01,Smartphone X,Eletrônicos,Facebook Ads,Nenhuma,1894.09,1266.09,53.56
+1874,2024-02-18,"Monitor 27""",Periféricos,Google Ads,Black Friday,1263.13,822.94,43.15
+1875,2024-04-29,Mesa Escritório,Móveis,Google Ads,Institucional,543.99,362.91,66.26
+1876,2024-06-19,Notebook Pro,Eletrônicos,Email Marketing,Institucional,3456.25,2354.16,11.24
+1877,2024-12-17,Notebook Pro,Eletrônicos,Influencers,Verão Ofertas,3237.95,2239.81,142.81
+1878,2024-12-19,Cadeira Gamer,Móveis,Email Marketing,Verão Ofertas,875.95,541.64,26.36
+1879,2024-08-03,Cadeira Gamer,Móveis,Google Ads,Nenhuma,736.82,473.94,76.37
+1880,2024-08-14,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,638.26,446.48,49.33
+1881,2024-10-23,Notebook Pro,Eletrônicos,Google Ads,Institucional,3388.63,2040.85,27.29
+1882,2024-09-10,Smartphone X,Eletrônicos,Google Ads,Black Friday,2182.42,1409.64,74.78
+1883,2024-05-06,Teclado Mecânico,Periféricos,Influencers,Nenhuma,281.54,188.0,143.33
+1884,2024-01-01,Teclado Mecânico,Periféricos,Influencers,Black Friday,274.26,183.94,134.46
+1885,2024-10-06,Notebook Pro,Eletrônicos,Email Marketing,Black Friday,3683.1,2299.13,12.2
+1886,2024-02-14,Mesa Escritório,Móveis,Influencers,Nenhuma,645.32,399.41,115.95
+1887,2024-03-17,Cadeira Gamer,Móveis,Facebook Ads,Nenhuma,859.33,545.05,41.54
+1888,2024-02-22,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1093.46,756.48,0.0
+1889,2024-12-13,Cadeira Gamer,Móveis,Influencers,Semana Tech,721.2,447.92,103.86
+1890,2024-02-15,Mesa Escritório,Móveis,Email Marketing,Nenhuma,579.26,389.21,40.1
+1891,2024-06-02,"Monitor 27""",Periféricos,Facebook Ads,Institucional,1279.11,780.99,46.3
+1892,2024-11-27,Smartphone X,Eletrônicos,Google Ads,Black Friday,2029.88,1254.61,54.82
+1893,2024-11-21,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,321.89,214.05,154.07
+1894,2024-07-25,Notebook Pro,Eletrônicos,Facebook Ads,Verão Ofertas,3845.07,2359.88,70.89
+1895,2024-10-09,Smartphone X,Eletrônicos,Influencers,Nenhuma,2028.67,1306.76,168.54
+1896,2024-04-12,Cadeira Gamer,Móveis,Influencers,Verão Ofertas,833.9,528.25,185.93
+1897,2024-01-09,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2189.34,1438.52,0.0
+1898,2024-07-24,Mesa Escritório,Móveis,Google Ads,Institucional,540.58,354.97,14.35
+1899,2024-09-28,Mesa Escritório,Móveis,Facebook Ads,Institucional,585.01,351.68,19.62
+1900,2024-11-27,Notebook Pro,Eletrônicos,Google Ads,Verão Ofertas,3694.37,2253.93,61.21
+1901,2024-07-21,Cadeira Gamer,Móveis,Orgânico,Nenhuma,721.52,444.79,0.0
+1902,2024-12-22,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,329.44,227.95,0.0
+1903,2024-08-18,Smartphone X,Eletrônicos,Facebook Ads,Verão Ofertas,1983.98,1277.63,79.19
+1904,2024-03-11,Teclado Mecânico,Periféricos,Influencers,Institucional,273.55,176.44,161.15
+1905,2024-12-25,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,272.91,180.81,0.0
+1906,2024-08-10,Mesa Escritório,Móveis,Google Ads,Black Friday,626.21,412.96,14.22
+1907,2024-10-16,Cadeira Gamer,Móveis,Email Marketing,Institucional,830.62,578.45,22.05
+1908,2024-07-21,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2112.77,1412.36,0.0
+1909,2024-11-17,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3158.88,1961.66,0.0
+1910,2024-10-13,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2110.98,1410.64,0.0
+1911,2024-08-17,Notebook Pro,Eletrônicos,Facebook Ads,Black Friday,3437.91,2218.76,76.08
+1912,2024-03-05,Notebook Pro,Eletrônicos,Facebook Ads,Semana Tech,3825.99,2298.99,74.86
+1913,2024-12-18,Teclado Mecânico,Periféricos,Facebook Ads,Semana Tech,299.26,194.63,47.64
+1914,2024-02-18,"Monitor 27""",Periféricos,Google Ads,Semana Tech,1086.25,677.08,75.2
+1915,2024-08-09,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3174.74,2158.87,0.0
+1916,2024-10-31,Teclado Mecânico,Periféricos,Email Marketing,Nenhuma,282.12,190.86,68.09
+1917,2024-02-04,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,310.51,209.07,0.0
+1918,2024-03-10,Teclado Mecânico,Periféricos,Facebook Ads,Verão Ofertas,299.48,185.32,29.46
+1919,2024-05-28,Teclado Mecânico,Periféricos,Influencers,Black Friday,286.96,183.7,62.72
+1920,2024-02-27,Teclado Mecânico,Periféricos,Influencers,Semana Tech,323.59,224.33,185.18
+1921,2024-09-11,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,301.85,189.6,0.0
+1922,2024-06-03,Notebook Pro,Eletrônicos,Influencers,Black Friday,3672.73,2212.51,110.82
+1923,2024-12-05,Smartphone X,Eletrônicos,Google Ads,Institucional,2156.1,1323.49,42.76
+1924,2024-05-07,Mesa Escritório,Móveis,Google Ads,Institucional,613.55,422.33,63.74
+1925,2024-07-28,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1208.74,830.12,0.0
+1926,2024-11-09,Teclado Mecânico,Periféricos,Influencers,Nenhuma,324.03,211.0,81.9
+1927,2024-09-14,Cadeira Gamer,Móveis,Orgânico,Nenhuma,846.26,580.59,0.0
+1928,2024-04-22,Cadeira Gamer,Móveis,Influencers,Nenhuma,827.37,551.77,87.62
+1929,2024-07-11,"Monitor 27""",Periféricos,Email Marketing,Semana Tech,1118.95,775.38,44.85
+1930,2024-04-26,Teclado Mecânico,Periféricos,Google Ads,Semana Tech,305.09,187.95,49.79
+1931,2024-05-14,Cadeira Gamer,Móveis,Google Ads,Black Friday,826.48,546.47,16.36
+1932,2024-02-06,Teclado Mecânico,Periféricos,Google Ads,Black Friday,306.27,212.06,16.71
+1933,2024-06-23,Smartphone X,Eletrônicos,Influencers,Nenhuma,2085.32,1325.98,105.6
+1934,2024-10-25,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,309.37,210.6,0.0
+1935,2024-06-04,Cadeira Gamer,Móveis,Influencers,Institucional,799.5,509.8,52.41
+1936,2024-09-09,Notebook Pro,Eletrônicos,Email Marketing,Institucional,3411.5,2151.08,42.28
+1937,2024-03-15,Teclado Mecânico,Periféricos,Email Marketing,Nenhuma,289.7,184.82,33.43
+1938,2024-11-14,Cadeira Gamer,Móveis,Influencers,Black Friday,849.89,538.86,177.5
+1939,2024-04-12,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,295.3,197.96,59.4
+1940,2024-01-27,Mesa Escritório,Móveis,Email Marketing,Black Friday,633.21,404.38,37.71
+1941,2024-11-13,Notebook Pro,Eletrônicos,Influencers,Institucional,3452.26,2400.21,55.59
+1942,2024-12-26,Smartphone X,Eletrônicos,Influencers,Nenhuma,2058.09,1363.25,186.71
+1943,2024-02-02,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,297.75,191.89,59.82
+1944,2024-02-01,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,287.31,181.29,0.0
+1945,2024-09-29,Teclado Mecânico,Periféricos,Email Marketing,Institucional,321.93,211.17,21.11
+1946,2024-11-26,Mesa Escritório,Móveis,Facebook Ads,Black Friday,541.04,336.43,66.09
+1947,2024-09-25,Cadeira Gamer,Móveis,Email Marketing,Institucional,768.57,537.68,64.25
+1948,2024-08-11,Mesa Escritório,Móveis,Email Marketing,Institucional,573.2,394.34,39.3
+1949,2024-09-24,Mesa Escritório,Móveis,Orgânico,Nenhuma,573.52,389.49,0.0
+1950,2024-09-08,Smartphone X,Eletrônicos,Influencers,Nenhuma,2131.93,1475.77,155.12
+1951,2024-01-05,Cadeira Gamer,Móveis,Facebook Ads,Institucional,798.91,489.93,53.13
+1952,2024-05-14,Notebook Pro,Eletrônicos,Google Ads,Institucional,3202.74,2165.64,62.26
+1953,2024-08-11,Cadeira Gamer,Móveis,Orgânico,Nenhuma,812.07,558.81,0.0
+1954,2024-04-17,"Monitor 27""",Periféricos,Influencers,Nenhuma,1107.73,753.76,177.35
+1955,2024-01-30,Mesa Escritório,Móveis,Orgânico,Nenhuma,613.12,391.19,0.0
+1956,2024-05-10,Teclado Mecânico,Periféricos,Facebook Ads,Institucional,304.52,206.99,70.22
+1957,2024-04-07,Smartphone X,Eletrônicos,Google Ads,Institucional,1973.11,1346.54,11.94
+1958,2024-10-17,Teclado Mecânico,Periféricos,Email Marketing,Institucional,304.16,200.26,24.3
+1959,2024-10-06,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2089.87,1389.28,0.0
+1960,2024-04-09,Cadeira Gamer,Móveis,Influencers,Institucional,856.73,545.29,119.49
+1961,2024-06-02,Notebook Pro,Eletrônicos,Google Ads,Verão Ofertas,3601.48,2197.91,20.74
+1962,2024-01-13,"Monitor 27""",Periféricos,Facebook Ads,Semana Tech,1202.06,763.21,27.31
+1963,2024-06-30,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,827.5,511.87,67.53
+1964,2024-07-04,Notebook Pro,Eletrônicos,Google Ads,Black Friday,3525.5,2155.33,42.76
+1965,2024-03-20,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1255.22,799.53,0.0
+1966,2024-06-28,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1188.09,797.72,0.0
+1967,2024-12-07,Cadeira Gamer,Móveis,Google Ads,Institucional,740.27,503.38,75.65
+1968,2024-06-01,Notebook Pro,Eletrônicos,Influencers,Semana Tech,3325.25,2264.22,96.52
+1969,2024-02-15,Notebook Pro,Eletrônicos,Google Ads,Verão Ofertas,3423.15,2282.3,35.71
+1970,2024-08-02,Cadeira Gamer,Móveis,Influencers,Black Friday,735.8,451.26,57.04
+1971,2024-12-22,Smartphone X,Eletrônicos,Influencers,Black Friday,2023.95,1308.47,78.05
+1972,2024-10-05,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2044.47,1331.75,0.0
+1973,2024-09-08,Smartphone X,Eletrônicos,Google Ads,Nenhuma,2088.99,1286.66,62.41
+1974,2024-02-05,Mesa Escritório,Móveis,Email Marketing,Institucional,594.36,380.27,76.61
+1975,2024-03-31,Cadeira Gamer,Móveis,Influencers,Institucional,754.23,490.0,163.13
+1976,2024-12-20,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3353.88,2315.65,0.0
+1977,2024-02-29,Smartphone X,Eletrônicos,Influencers,Black Friday,1885.36,1266.41,181.67
+1978,2024-01-11,Mesa Escritório,Móveis,Orgânico,Nenhuma,659.73,457.65,0.0
+1979,2024-11-27,Teclado Mecânico,Periféricos,Facebook Ads,Black Friday,275.36,186.51,78.66
+1980,2024-07-14,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3816.38,2557.38,62.56
+1981,2024-12-29,Teclado Mecânico,Periféricos,Influencers,Institucional,273.21,188.07,153.92
+1982,2024-10-27,Mesa Escritório,Móveis,Facebook Ads,Black Friday,604.37,396.64,59.7
+1983,2024-01-15,Smartphone X,Eletrônicos,Facebook Ads,Verão Ofertas,2182.56,1424.42,79.34
+1984,2024-01-15,Teclado Mecânico,Periféricos,Google Ads,Black Friday,304.4,186.23,23.19
+1985,2024-05-29,"Monitor 27""",Periféricos,Google Ads,Verão Ofertas,1104.22,699.87,53.32
+1986,2024-11-13,"Monitor 27""",Periféricos,Google Ads,Nenhuma,1156.0,767.98,52.07
+1987,2024-08-13,Teclado Mecânico,Periféricos,Influencers,Nenhuma,309.08,195.34,187.08
+1988,2024-10-02,Mesa Escritório,Móveis,Orgânico,Nenhuma,616.06,390.78,0.0
+1989,2024-02-27,Smartphone X,Eletrônicos,Email Marketing,Verão Ofertas,2167.61,1442.04,67.77
+1990,2024-11-02,Mesa Escritório,Móveis,Email Marketing,Nenhuma,589.65,390.69,17.56
+1991,2024-01-11,Teclado Mecânico,Periféricos,Influencers,Nenhuma,281.02,173.87,184.0
+1992,2024-11-10,Mesa Escritório,Móveis,Facebook Ads,Black Friday,608.37,404.9,46.54
+1993,2024-06-18,Notebook Pro,Eletrônicos,Email Marketing,Verão Ofertas,3234.35,2000.48,62.83
+1994,2024-10-08,Teclado Mecânico,Periféricos,Facebook Ads,Nenhuma,294.76,183.59,45.43
+1995,2024-04-10,Notebook Pro,Eletrônicos,Influencers,Nenhuma,3629.77,2524.9,114.66
+1996,2024-01-09,Cadeira Gamer,Móveis,Orgânico,Nenhuma,793.51,521.68,0.0
+1997,2024-04-07,Mesa Escritório,Móveis,Influencers,Institucional,573.22,385.12,171.75
+1998,2024-09-22,Mesa Escritório,Móveis,Google Ads,Semana Tech,623.01,417.06,38.19
+1999,2024-12-07,Cadeira Gamer,Móveis,Influencers,Semana Tech,744.18,473.7,134.79
+2000,2024-03-22,Teclado Mecânico,Periféricos,Influencers,Institucional,298.22,197.76,197.01
+2001,2024-06-20,Mesa Escritório,Móveis,Facebook Ads,Institucional,551.77,353.17,38.51
+2002,2024-06-26,Mesa Escritório,Móveis,Orgânico,Nenhuma,544.98,355.48,0.0
+2003,2024-09-29,Cadeira Gamer,Móveis,Orgânico,Nenhuma,794.89,532.89,0.0
+2004,2024-05-08,Smartphone X,Eletrônicos,Influencers,Institucional,1901.61,1260.88,151.39
+2005,2024-02-14,Teclado Mecânico,Periféricos,Google Ads,Institucional,302.79,204.02,21.67
+2006,2024-01-04,"Monitor 27""",Periféricos,Google Ads,Institucional,1221.66,782.58,70.91
+2007,2024-12-18,Smartphone X,Eletrônicos,Facebook Ads,Verão Ofertas,2170.33,1488.27,14.27
+2008,2024-09-29,Mesa Escritório,Móveis,Email Marketing,Nenhuma,620.85,390.75,63.65
+2009,2024-10-13,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,284.02,178.06,19.72
+2010,2024-05-27,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,598.76,383.44,40.02
+2011,2024-04-02,Smartphone X,Eletrônicos,Email Marketing,Institucional,1989.85,1218.34,76.76
+2012,2024-11-17,Cadeira Gamer,Móveis,Orgânico,Nenhuma,726.42,456.43,0.0
+2013,2024-02-21,Teclado Mecânico,Periféricos,Email Marketing,Nenhuma,277.83,174.35,23.33
+2014,2024-01-18,Notebook Pro,Eletrônicos,Facebook Ads,Nenhuma,3699.98,2301.12,43.56
+2015,2024-04-03,Teclado Mecânico,Periféricos,Email Marketing,Verão Ofertas,288.13,196.38,49.73
+2016,2024-12-14,Smartphone X,Eletrônicos,Facebook Ads,Black Friday,1928.75,1262.45,34.79
+2017,2024-11-09,Cadeira Gamer,Móveis,Orgânico,Nenhuma,794.04,555.05,0.0
+2018,2024-04-18,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,291.12,176.75,0.0
+2019,2024-01-19,"Monitor 27""",Periféricos,Facebook Ads,Nenhuma,1123.92,779.47,53.12
+2020,2024-09-23,Smartphone X,Eletrônicos,Influencers,Institucional,1910.88,1313.73,80.74
+2021,2024-02-24,Teclado Mecânico,Periféricos,Facebook Ads,Verão Ofertas,281.1,169.4,41.31
+2022,2024-05-28,Teclado Mecânico,Periféricos,Email Marketing,Nenhuma,301.73,189.27,57.5
+2023,2024-05-21,Smartphone X,Eletrônicos,Facebook Ads,Black Friday,2007.83,1343.23,46.4
+2024,2024-07-25,Mesa Escritório,Móveis,Facebook Ads,Black Friday,609.53,370.86,68.81
+2025,2024-12-24,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2076.36,1248.95,0.0
+2026,2024-01-31,Mesa Escritório,Móveis,Orgânico,Nenhuma,594.79,384.04,0.0
+2027,2024-05-22,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3551.5,2151.37,16.72
+2028,2024-11-27,Cadeira Gamer,Móveis,Email Marketing,Institucional,877.74,569.92,48.31
+2029,2024-09-06,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,271.04,178.35,0.0
+2030,2024-10-31,Notebook Pro,Eletrônicos,Email Marketing,Verão Ofertas,3708.31,2494.3,13.66
+2031,2024-02-26,"Monitor 27""",Periféricos,Email Marketing,Black Friday,1262.22,824.69,45.99
+2032,2024-11-13,Cadeira Gamer,Móveis,Email Marketing,Verão Ofertas,878.79,573.11,51.73
+2033,2024-10-20,Cadeira Gamer,Móveis,Facebook Ads,Institucional,789.37,545.37,45.81
+2034,2024-01-20,Smartphone X,Eletrônicos,Google Ads,Verão Ofertas,1821.61,1108.6,11.71
+2035,2024-07-13,Cadeira Gamer,Móveis,Google Ads,Semana Tech,732.77,452.0,44.86
+2036,2024-09-03,Cadeira Gamer,Móveis,Orgânico,Nenhuma,786.83,539.39,0.0
+2037,2024-11-04,"Monitor 27""",Periféricos,Google Ads,Semana Tech,1191.64,726.58,66.55
+2038,2024-11-29,Smartphone X,Eletrônicos,Email Marketing,Verão Ofertas,2009.2,1210.39,44.48
+2039,2024-09-11,Mesa Escritório,Móveis,Orgânico,Nenhuma,587.47,392.07,0.0
+2040,2024-07-25,"Monitor 27""",Periféricos,Facebook Ads,Nenhuma,1229.44,812.62,77.04
+2041,2024-05-11,"Monitor 27""",Periféricos,Google Ads,Institucional,1186.33,786.24,63.47
+2042,2024-04-09,Mesa Escritório,Móveis,Facebook Ads,Black Friday,616.26,388.93,75.62
+2043,2024-11-07,Notebook Pro,Eletrônicos,Email Marketing,Nenhuma,3526.89,2445.88,58.79
+2044,2024-09-18,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1932.43,1340.99,0.0
+2045,2024-05-09,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3573.06,2263.29,0.0
+2046,2024-03-30,Mesa Escritório,Móveis,Influencers,Verão Ofertas,620.1,418.23,69.82
+2047,2024-03-12,Mesa Escritório,Móveis,Orgânico,Nenhuma,647.68,415.67,0.0
+2048,2024-01-18,Mesa Escritório,Móveis,Orgânico,Nenhuma,623.29,383.82,0.0
+2049,2024-11-29,Notebook Pro,Eletrônicos,Facebook Ads,Institucional,3730.53,2469.92,74.6
+2050,2024-11-17,Notebook Pro,Eletrônicos,Influencers,Black Friday,3758.65,2544.98,88.54
+2051,2024-09-01,Notebook Pro,Eletrônicos,Influencers,Black Friday,3253.55,2008.18,90.5
+2052,2024-09-28,"Monitor 27""",Periféricos,Google Ads,Nenhuma,1207.99,802.14,39.22
+2053,2024-01-29,Cadeira Gamer,Móveis,Orgânico,Nenhuma,821.63,516.8,0.0
+2054,2024-07-10,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3154.65,2121.37,0.0
+2055,2024-11-11,Mesa Escritório,Móveis,Influencers,Black Friday,599.77,368.35,189.74
+2056,2024-07-16,Mesa Escritório,Móveis,Email Marketing,Semana Tech,624.51,428.0,61.37
+2057,2024-01-29,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2182.74,1383.44,0.0
+2058,2024-12-02,Cadeira Gamer,Móveis,Influencers,Semana Tech,862.79,569.8,189.43
+2059,2024-07-03,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1107.87,717.05,0.0
+2060,2024-02-10,Mesa Escritório,Móveis,Email Marketing,Black Friday,649.82,442.82,46.23
+2061,2024-12-31,Cadeira Gamer,Móveis,Influencers,Nenhuma,767.22,481.33,146.83
+2062,2024-08-10,Mesa Escritório,Móveis,Orgânico,Nenhuma,556.96,338.03,0.0
+2063,2024-10-14,Notebook Pro,Eletrônicos,Influencers,Nenhuma,3369.98,2069.68,86.87
+2064,2024-06-15,Mesa Escritório,Móveis,Facebook Ads,Institucional,636.4,417.57,36.5
+2065,2024-01-16,Teclado Mecânico,Periféricos,Facebook Ads,Semana Tech,323.3,224.53,79.44
+2066,2024-11-15,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3787.65,2395.63,0.0
+2067,2024-08-10,Teclado Mecânico,Periféricos,Facebook Ads,Verão Ofertas,286.01,194.64,57.18
+2068,2024-07-08,Cadeira Gamer,Móveis,Influencers,Nenhuma,767.63,497.27,56.63
+2069,2024-07-10,Smartphone X,Eletrônicos,Email Marketing,Verão Ofertas,2167.13,1444.34,64.53
+2070,2024-12-30,Notebook Pro,Eletrônicos,Google Ads,Black Friday,3536.63,2177.96,15.18
+2071,2024-02-04,Cadeira Gamer,Móveis,Orgânico,Nenhuma,740.03,449.2,0.0
+2072,2024-09-26,Notebook Pro,Eletrônicos,Email Marketing,Verão Ofertas,3267.22,2183.14,15.29
+2073,2024-11-19,Notebook Pro,Eletrônicos,Influencers,Verão Ofertas,3403.41,2371.17,184.26
+2074,2024-08-07,Teclado Mecânico,Periféricos,Facebook Ads,Semana Tech,327.06,209.17,61.11
+2075,2024-01-20,Smartphone X,Eletrônicos,Email Marketing,Verão Ofertas,2014.7,1370.93,18.42
+2076,2024-10-20,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,280.32,195.45,0.0
+2077,2024-10-02,Mesa Escritório,Móveis,Orgânico,Nenhuma,559.97,373.41,0.0
+2078,2024-05-14,Cadeira Gamer,Móveis,Google Ads,Institucional,837.41,548.61,58.06
+2079,2024-09-18,Notebook Pro,Eletrônicos,Influencers,Nenhuma,3556.92,2418.53,118.68
+2080,2024-07-18,Teclado Mecânico,Periféricos,Email Marketing,Institucional,275.55,170.28,12.53
+2081,2024-07-18,"Monitor 27""",Periféricos,Influencers,Institucional,1199.31,747.06,138.16
+2082,2024-10-25,Notebook Pro,Eletrônicos,Influencers,Institucional,3846.24,2497.77,68.17
+2083,2024-08-15,Teclado Mecânico,Periféricos,Email Marketing,Black Friday,311.99,208.25,70.56
+2084,2024-06-21,Cadeira Gamer,Móveis,Facebook Ads,Semana Tech,841.36,549.92,26.08
+2085,2024-05-15,Smartphone X,Eletrônicos,Email Marketing,Verão Ofertas,1816.39,1267.68,66.45
+2086,2024-09-27,"Monitor 27""",Periféricos,Influencers,Verão Ofertas,1276.34,801.42,129.44
+2087,2024-12-31,Notebook Pro,Eletrônicos,Email Marketing,Nenhuma,3179.41,1971.63,61.16
+2088,2024-10-16,Mesa Escritório,Móveis,Orgânico,Nenhuma,658.7,444.05,0.0
+2089,2024-09-30,Teclado Mecânico,Periféricos,Google Ads,Institucional,284.99,171.82,63.56
+2090,2024-03-07,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1318.12,859.42,0.0
+2091,2024-04-29,Mesa Escritório,Móveis,Email Marketing,Black Friday,591.4,412.69,69.43
+2092,2024-09-27,"Monitor 27""",Periféricos,Google Ads,Institucional,1170.82,786.16,25.44
+2093,2024-11-30,Mesa Escritório,Móveis,Influencers,Semana Tech,591.61,363.07,173.1
+2094,2024-08-01,Cadeira Gamer,Móveis,Influencers,Verão Ofertas,799.5,559.23,186.22
+2095,2024-12-07,"Monitor 27""",Periféricos,Email Marketing,Black Friday,1195.63,821.48,15.02
+2096,2024-08-30,Teclado Mecânico,Periféricos,Facebook Ads,Institucional,286.46,179.06,54.31
+2097,2024-08-14,Mesa Escritório,Móveis,Email Marketing,Semana Tech,650.14,453.69,16.01
+2098,2024-05-03,Smartphone X,Eletrônicos,Facebook Ads,Institucional,1802.47,1235.17,28.78
+2099,2024-09-28,Smartphone X,Eletrônicos,Influencers,Semana Tech,1939.64,1230.32,147.01
+2100,2024-12-01,Notebook Pro,Eletrônicos,Influencers,Black Friday,3412.15,2092.13,82.09
+2101,2024-01-28,Teclado Mecânico,Periféricos,Influencers,Institucional,319.77,204.58,87.0
+2102,2024-06-16,Mesa Escritório,Móveis,Orgânico,Nenhuma,645.22,434.07,0.0
+2103,2024-02-06,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,576.6,351.61,28.59
+2104,2024-12-08,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3187.77,2100.53,0.0
+2105,2024-09-06,Teclado Mecânico,Periféricos,Facebook Ads,Nenhuma,325.83,213.47,13.8
+2106,2024-12-08,Cadeira Gamer,Móveis,Google Ads,Nenhuma,823.9,565.85,39.72
+2107,2024-06-17,Notebook Pro,Eletrônicos,Facebook Ads,Semana Tech,3473.94,2343.21,66.94
+2108,2024-12-07,Mesa Escritório,Móveis,Influencers,Institucional,596.07,402.87,193.22
+2109,2024-02-09,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1850.46,1187.32,0.0
+2110,2024-01-07,"Monitor 27""",Periféricos,Email Marketing,Black Friday,1200.61,808.17,47.61
+2111,2024-04-30,Smartphone X,Eletrônicos,Email Marketing,Institucional,1993.33,1324.63,51.16
+2112,2024-10-19,Smartphone X,Eletrônicos,Google Ads,Institucional,2188.67,1420.82,38.94
+2113,2024-04-10,Cadeira Gamer,Móveis,Email Marketing,Institucional,825.53,550.5,27.64
+2114,2024-02-01,Teclado Mecânico,Periféricos,Influencers,Semana Tech,308.09,215.07,79.17
+2115,2024-05-14,Mesa Escritório,Móveis,Facebook Ads,Institucional,561.48,347.53,66.65
+2116,2024-05-25,Teclado Mecânico,Periféricos,Facebook Ads,Institucional,291.78,187.35,58.18
+2117,2024-12-11,"Monitor 27""",Periféricos,Influencers,Nenhuma,1267.44,772.39,184.05
+2118,2024-01-02,"Monitor 27""",Periféricos,Google Ads,Black Friday,1219.67,777.37,36.97
+2119,2024-09-09,Mesa Escritório,Móveis,Email Marketing,Institucional,600.92,415.6,25.02
+2120,2024-05-18,Smartphone X,Eletrônicos,Influencers,Black Friday,2012.92,1386.79,92.2
+2121,2024-08-14,Smartphone X,Eletrônicos,Influencers,Black Friday,2163.36,1388.13,96.69
+2122,2024-08-26,Mesa Escritório,Móveis,Google Ads,Black Friday,659.58,415.71,25.34
+2123,2024-06-04,"Monitor 27""",Periféricos,Email Marketing,Black Friday,1197.93,811.28,78.33
+2124,2024-07-07,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2175.45,1522.34,0.0
+2125,2024-07-26,Teclado Mecânico,Periféricos,Email Marketing,Verão Ofertas,303.78,194.3,48.1
+2126,2024-06-26,Notebook Pro,Eletrônicos,Google Ads,Black Friday,3241.7,2191.12,77.12
+2127,2024-09-20,Smartphone X,Eletrônicos,Influencers,Semana Tech,2127.0,1468.7,138.1
+2128,2024-12-22,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3659.76,2352.21,0.0
+2129,2024-03-23,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,736.97,475.27,50.31
+2130,2024-11-04,Cadeira Gamer,Móveis,Email Marketing,Black Friday,795.64,553.2,60.92
+2131,2024-11-03,Mesa Escritório,Móveis,Influencers,Semana Tech,559.24,364.61,152.1
+2132,2024-08-10,Teclado Mecânico,Periféricos,Email Marketing,Verão Ofertas,316.89,212.17,42.56
+2133,2024-04-14,Cadeira Gamer,Móveis,Google Ads,Black Friday,760.56,528.44,69.44
+2134,2024-04-02,Cadeira Gamer,Móveis,Google Ads,Nenhuma,788.52,515.79,31.72
+2135,2024-05-24,Notebook Pro,Eletrônicos,Google Ads,Nenhuma,3451.03,2384.27,33.95
+2136,2024-09-08,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2161.34,1478.61,0.0
+2137,2024-08-21,Cadeira Gamer,Móveis,Influencers,Black Friday,822.53,521.75,78.96
+2138,2024-07-11,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,2123.77,1374.73,45.45
+2139,2024-01-15,Cadeira Gamer,Móveis,Google Ads,Verão Ofertas,762.53,474.95,49.66
+2140,2024-04-02,Mesa Escritório,Móveis,Email Marketing,Institucional,546.17,370.26,13.44
+2141,2024-06-28,Teclado Mecânico,Periféricos,Influencers,Black Friday,305.48,188.38,198.63
+2142,2024-12-12,Mesa Escritório,Móveis,Email Marketing,Nenhuma,603.85,398.47,39.49
+2143,2024-06-12,Notebook Pro,Eletrônicos,Influencers,Black Friday,3393.02,2116.12,153.23
+2144,2024-09-14,Cadeira Gamer,Móveis,Orgânico,Nenhuma,818.48,555.3,0.0
+2145,2024-07-08,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1208.67,793.92,0.0
+2146,2024-08-22,"Monitor 27""",Periféricos,Facebook Ads,Institucional,1291.63,817.88,78.26
+2147,2024-01-19,"Monitor 27""",Periféricos,Google Ads,Semana Tech,1081.84,655.18,47.11
+2148,2024-09-20,Cadeira Gamer,Móveis,Email Marketing,Nenhuma,769.0,472.88,17.6
+2149,2024-07-04,Smartphone X,Eletrônicos,Facebook Ads,Black Friday,2174.66,1364.1,68.45
+2150,2024-05-27,Smartphone X,Eletrônicos,Google Ads,Semana Tech,1987.54,1308.08,42.41
+2151,2024-01-23,Smartphone X,Eletrônicos,Google Ads,Verão Ofertas,1999.33,1348.47,24.51
+2152,2024-03-07,Smartphone X,Eletrônicos,Google Ads,Black Friday,1894.24,1160.21,77.9
+2153,2024-06-04,Cadeira Gamer,Móveis,Google Ads,Black Friday,778.82,534.92,27.55
+2154,2024-01-27,Teclado Mecânico,Periféricos,Facebook Ads,Semana Tech,281.3,175.92,62.88
+2155,2024-10-09,Mesa Escritório,Móveis,Influencers,Black Friday,646.54,450.32,172.65
+2156,2024-11-08,Mesa Escritório,Móveis,Email Marketing,Semana Tech,566.04,359.21,73.97
+2157,2024-07-28,Cadeira Gamer,Móveis,Orgânico,Nenhuma,808.5,548.88,0.0
+2158,2024-04-11,Smartphone X,Eletrônicos,Google Ads,Semana Tech,2059.6,1254.39,51.59
+2159,2024-05-29,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1944.65,1237.11,0.0
+2160,2024-03-07,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,2097.29,1384.85,64.51
+2161,2024-03-13,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2133.7,1323.54,0.0
+2162,2024-05-29,Mesa Escritório,Móveis,Orgânico,Nenhuma,655.76,437.67,0.0
+2163,2024-06-23,Smartphone X,Eletrônicos,Facebook Ads,Institucional,2186.0,1431.18,72.99
+2164,2024-10-19,Cadeira Gamer,Móveis,Facebook Ads,Black Friday,798.66,537.41,16.14
+2165,2024-09-06,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1239.5,763.82,0.0
+2166,2024-04-09,Smartphone X,Eletrônicos,Facebook Ads,Semana Tech,2172.9,1508.41,49.5
+2167,2024-07-27,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,275.16,166.31,71.81
+2168,2024-11-20,Teclado Mecânico,Periféricos,Influencers,Black Friday,296.92,180.02,151.95
+2169,2024-07-02,Teclado Mecânico,Periféricos,Email Marketing,Nenhuma,278.85,181.13,54.32
+2170,2024-04-07,"Monitor 27""",Periféricos,Influencers,Institucional,1205.61,814.99,73.06
+2171,2024-06-23,Mesa Escritório,Móveis,Influencers,Verão Ofertas,564.66,367.35,197.76
+2172,2024-05-31,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1816.82,1096.75,0.0
+2173,2024-04-22,Mesa Escritório,Móveis,Orgânico,Nenhuma,578.47,387.11,0.0
+2174,2024-04-24,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,2003.42,1295.35,57.75
+2175,2024-09-24,Teclado Mecânico,Periféricos,Google Ads,Institucional,271.27,185.52,24.38
+2176,2024-12-22,Teclado Mecânico,Periféricos,Email Marketing,Nenhuma,275.05,179.98,61.6
+2177,2024-09-29,Cadeira Gamer,Móveis,Google Ads,Verão Ofertas,854.88,553.54,42.8
+2178,2024-12-14,"Monitor 27""",Periféricos,Email Marketing,Verão Ofertas,1154.76,779.77,31.62
+2179,2024-09-27,Cadeira Gamer,Móveis,Facebook Ads,Black Friday,749.86,468.79,47.89
+2180,2024-01-21,Teclado Mecânico,Periféricos,Email Marketing,Verão Ofertas,327.23,212.92,58.67
+2181,2024-11-08,Notebook Pro,Eletrônicos,Influencers,Institucional,3735.38,2589.64,189.4
+2182,2024-06-26,Mesa Escritório,Móveis,Orgânico,Nenhuma,600.22,391.8,0.0
+2183,2024-06-07,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1858.97,1171.75,0.0
+2184,2024-12-30,Notebook Pro,Eletrônicos,Facebook Ads,Black Friday,3394.04,2363.15,32.97
+2185,2024-04-10,Notebook Pro,Eletrônicos,Google Ads,Institucional,3353.84,2201.31,34.27
+2186,2024-08-04,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,275.8,184.06,128.79
+2187,2024-02-21,Cadeira Gamer,Móveis,Orgânico,Nenhuma,865.0,597.61,0.0
+2188,2024-09-15,Cadeira Gamer,Móveis,Orgânico,Nenhuma,871.64,544.23,0.0
+2189,2024-08-21,Notebook Pro,Eletrônicos,Email Marketing,Semana Tech,3179.44,1947.92,39.57
+2190,2024-09-23,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,294.72,183.67,0.0
+2191,2024-10-03,Cadeira Gamer,Móveis,Orgânico,Nenhuma,834.1,581.03,0.0
+2192,2024-01-28,Mesa Escritório,Móveis,Orgânico,Nenhuma,564.21,360.87,0.0
+2193,2024-09-09,Smartphone X,Eletrônicos,Facebook Ads,Institucional,2144.9,1321.18,64.17
+2194,2024-01-04,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,1811.35,1263.1,57.29
+2195,2024-10-25,Notebook Pro,Eletrônicos,Facebook Ads,Verão Ofertas,3488.57,2216.62,49.57
+2196,2024-05-13,Notebook Pro,Eletrônicos,Facebook Ads,Institucional,3673.25,2268.48,17.8
+2197,2024-08-21,Cadeira Gamer,Móveis,Orgânico,Nenhuma,734.89,460.7,0.0
+2198,2024-03-06,Cadeira Gamer,Móveis,Orgânico,Nenhuma,848.26,548.35,0.0
+2199,2024-08-21,Mesa Escritório,Móveis,Orgânico,Nenhuma,624.17,386.57,0.0
+2200,2024-08-18,Smartphone X,Eletrônicos,Facebook Ads,Verão Ofertas,2020.29,1325.96,65.37
+2201,2024-10-26,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1192.03,736.24,0.0
+2202,2024-01-20,Mesa Escritório,Móveis,Google Ads,Institucional,584.31,369.08,75.3
+2203,2024-06-21,Mesa Escritório,Móveis,Email Marketing,Black Friday,639.15,421.73,10.87
+2204,2024-11-17,Notebook Pro,Eletrônicos,Influencers,Institucional,3252.41,2068.87,180.96
+2205,2024-10-19,Mesa Escritório,Móveis,Orgânico,Nenhuma,623.68,419.17,0.0
+2206,2024-03-05,Mesa Escritório,Móveis,Facebook Ads,Institucional,618.42,432.13,71.58
+2207,2024-03-19,"Monitor 27""",Periféricos,Email Marketing,Semana Tech,1221.96,823.45,57.14
+2208,2024-09-20,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3267.82,2024.9,0.0
+2209,2024-01-05,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3677.28,2353.5,0.0
+2210,2024-02-22,Teclado Mecânico,Periféricos,Influencers,Institucional,302.79,183.22,187.0
+2211,2024-09-16,Mesa Escritório,Móveis,Email Marketing,Verão Ofertas,659.97,429.2,17.53
+2212,2024-10-02,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1216.6,759.05,0.0
+2213,2024-02-16,Notebook Pro,Eletrônicos,Facebook Ads,Verão Ofertas,3557.57,2319.91,27.09
+2214,2024-03-26,"Monitor 27""",Periféricos,Influencers,Institucional,1204.0,726.03,150.73
+2215,2024-06-08,Mesa Escritório,Móveis,Influencers,Nenhuma,632.91,381.25,92.29
+2216,2024-09-14,Cadeira Gamer,Móveis,Email Marketing,Black Friday,767.34,469.9,30.78
+2217,2024-01-03,Notebook Pro,Eletrônicos,Influencers,Institucional,3794.35,2562.34,91.7
+2218,2024-06-25,Mesa Escritório,Móveis,Google Ads,Verão Ofertas,635.4,425.19,48.19
+2219,2024-12-19,Cadeira Gamer,Móveis,Google Ads,Black Friday,869.51,592.94,44.15
+2220,2024-06-21,Cadeira Gamer,Móveis,Orgânico,Nenhuma,834.41,518.17,0.0
+2221,2024-05-23,Cadeira Gamer,Móveis,Influencers,Nenhuma,844.91,585.1,52.89
+2222,2024-03-09,Teclado Mecânico,Periféricos,Google Ads,Semana Tech,323.48,197.84,64.05
+2223,2024-06-20,"Monitor 27""",Periféricos,Email Marketing,Verão Ofertas,1287.03,885.71,54.87
+2224,2024-09-02,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,798.57,528.69,62.28
+2225,2024-06-19,"Monitor 27""",Periféricos,Email Marketing,Institucional,1209.04,752.72,60.86
+2226,2024-02-01,Teclado Mecânico,Periféricos,Influencers,Nenhuma,308.77,212.25,141.91
+2227,2024-02-03,"Monitor 27""",Periféricos,Facebook Ads,Verão Ofertas,1150.9,745.82,39.65
+2228,2024-08-31,Notebook Pro,Eletrônicos,Influencers,Nenhuma,3599.88,2510.36,161.9
+2229,2024-06-09,Cadeira Gamer,Móveis,Influencers,Nenhuma,823.04,530.09,66.2
+2230,2024-07-29,Cadeira Gamer,Móveis,Influencers,Black Friday,747.76,459.39,53.01
+2231,2024-01-20,Cadeira Gamer,Móveis,Orgânico,Nenhuma,751.07,470.63,0.0
+2232,2024-05-08,Mesa Escritório,Móveis,Google Ads,Institucional,544.58,365.1,47.32
+2233,2024-07-18,Smartphone X,Eletrônicos,Email Marketing,Semana Tech,2184.7,1375.1,36.99
+2234,2024-10-25,Teclado Mecânico,Periféricos,Email Marketing,Nenhuma,276.51,191.29,17.96
+2235,2024-07-02,Cadeira Gamer,Móveis,Influencers,Nenhuma,774.65,481.66,54.13
+2236,2024-10-06,Teclado Mecânico,Periféricos,Google Ads,Semana Tech,270.59,164.58,18.94
+2237,2024-09-05,Smartphone X,Eletrônicos,Email Marketing,Institucional,2013.98,1284.87,63.96
+2238,2024-06-22,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,278.22,168.44,0.0
+2239,2024-07-13,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1252.37,806.11,71.88
+2240,2024-02-27,Smartphone X,Eletrônicos,Email Marketing,Institucional,2135.47,1431.09,40.75
+2241,2024-11-09,Smartphone X,Eletrônicos,Influencers,Semana Tech,2183.23,1525.94,78.82
+2242,2024-04-26,Smartphone X,Eletrônicos,Google Ads,Institucional,2180.83,1494.82,39.94
+2243,2024-09-14,Smartphone X,Eletrônicos,Google Ads,Black Friday,2010.39,1223.51,30.85
+2244,2024-01-16,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,291.55,181.36,170.6
+2245,2024-07-10,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,659.97,402.59,74.74
+2246,2024-01-29,Cadeira Gamer,Móveis,Influencers,Verão Ofertas,752.36,521.15,93.68
+2247,2024-03-15,Cadeira Gamer,Móveis,Facebook Ads,Black Friday,771.41,478.4,48.57
+2248,2024-06-21,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1102.4,697.14,0.0
+2249,2024-07-25,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1962.36,1358.27,0.0
+2250,2024-09-05,Notebook Pro,Eletrônicos,Influencers,Semana Tech,3589.21,2355.69,113.44
+2251,2024-06-10,Notebook Pro,Eletrônicos,Email Marketing,Black Friday,3393.48,2354.71,13.25
+2252,2024-01-21,Teclado Mecânico,Periféricos,Facebook Ads,Verão Ofertas,309.07,206.16,11.07
+2253,2024-08-15,Smartphone X,Eletrônicos,Google Ads,Black Friday,2039.96,1381.28,15.93
+2254,2024-11-14,Cadeira Gamer,Móveis,Orgânico,Nenhuma,863.09,530.86,0.0
+2255,2024-01-06,Notebook Pro,Eletrônicos,Influencers,Semana Tech,3660.05,2271.35,83.11
+2256,2024-06-21,"Monitor 27""",Periféricos,Google Ads,Verão Ofertas,1167.55,763.39,23.39
+2257,2024-04-07,Notebook Pro,Eletrônicos,Influencers,Semana Tech,3498.95,2331.77,184.31
+2258,2024-07-30,Mesa Escritório,Móveis,Influencers,Institucional,566.48,353.92,114.45
+2259,2024-12-27,Mesa Escritório,Móveis,Facebook Ads,Nenhuma,642.68,400.89,56.29
+2260,2024-03-26,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,807.53,555.38,58.66
+2261,2024-02-15,Notebook Pro,Eletrônicos,Influencers,Semana Tech,3736.32,2541.31,120.28
+2262,2024-04-30,Notebook Pro,Eletrônicos,Email Marketing,Institucional,3488.72,2314.07,41.78
+2263,2024-03-16,Cadeira Gamer,Móveis,Orgânico,Nenhuma,823.0,551.2,0.0
+2264,2024-05-03,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3480.62,2270.35,0.0
+2265,2024-03-22,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2078.34,1323.06,0.0
+2266,2024-07-18,Notebook Pro,Eletrônicos,Facebook Ads,Black Friday,3293.15,2273.57,72.62
+2267,2024-05-18,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1991.92,1249.13,0.0
+2268,2024-07-10,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,328.41,208.85,41.75
+2269,2024-01-15,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,297.05,191.67,0.0
+2270,2024-03-21,Mesa Escritório,Móveis,Google Ads,Institucional,622.15,406.98,11.02
+2271,2024-08-29,Teclado Mecânico,Periféricos,Facebook Ads,Nenhuma,271.6,188.05,79.31
+2272,2024-04-02,Notebook Pro,Eletrônicos,Google Ads,Black Friday,3523.52,2173.52,72.75
+2273,2024-03-11,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,1973.27,1373.56,14.82
+2274,2024-01-20,Mesa Escritório,Móveis,Facebook Ads,Institucional,652.4,446.89,13.61
+2275,2024-10-22,Mesa Escritório,Móveis,Orgânico,Nenhuma,630.07,426.39,0.0
+2276,2024-01-23,Mesa Escritório,Móveis,Facebook Ads,Black Friday,575.04,364.53,67.84
+2277,2024-09-12,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3684.8,2574.94,0.0
+2278,2024-11-15,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,833.34,563.38,32.41
+2279,2024-11-27,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3167.27,1981.61,0.0
+2280,2024-03-28,Notebook Pro,Eletrônicos,Facebook Ads,Black Friday,3363.71,2134.44,49.78
+2281,2024-06-05,Mesa Escritório,Móveis,Google Ads,Nenhuma,595.36,359.91,58.11
+2282,2024-10-25,Mesa Escritório,Móveis,Facebook Ads,Verão Ofertas,573.89,347.81,33.75
+2283,2024-05-22,Cadeira Gamer,Móveis,Orgânico,Nenhuma,863.69,573.23,0.0
+2284,2024-04-10,Cadeira Gamer,Móveis,Influencers,Verão Ofertas,770.59,516.45,112.0
+2285,2024-12-14,Smartphone X,Eletrônicos,Facebook Ads,Black Friday,1825.69,1131.46,42.97
+2286,2024-07-05,Cadeira Gamer,Móveis,Google Ads,Nenhuma,839.18,572.92,68.33
+2287,2024-01-19,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1830.7,1195.83,0.0
+2288,2024-09-18,"Monitor 27""",Periféricos,Google Ads,Institucional,1246.53,806.27,33.94
+2289,2024-10-26,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1280.87,819.55,0.0
+2290,2024-02-05,Cadeira Gamer,Móveis,Facebook Ads,Institucional,837.62,577.15,61.15
+2291,2024-03-06,Mesa Escritório,Móveis,Orgânico,Nenhuma,588.6,372.03,0.0
+2292,2024-05-01,Smartphone X,Eletrônicos,Facebook Ads,Verão Ofertas,1842.21,1215.25,68.94
+2293,2024-03-18,Teclado Mecânico,Periféricos,Email Marketing,Semana Tech,321.15,210.57,31.66
+2294,2024-08-13,Cadeira Gamer,Móveis,Influencers,Institucional,843.76,546.18,84.84
+2295,2024-01-10,Teclado Mecânico,Periféricos,Email Marketing,Institucional,312.03,200.1,69.97
+2296,2024-04-28,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1233.95,849.38,0.0
+2297,2024-03-24,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,322.75,206.59,54.53
+2298,2024-06-02,Smartphone X,Eletrônicos,Influencers,Verão Ofertas,2139.75,1329.56,76.43
+2299,2024-05-12,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,306.9,202.95,83.23
+2300,2024-04-09,Cadeira Gamer,Móveis,Facebook Ads,Semana Tech,757.64,493.41,56.59
+2301,2024-01-10,Notebook Pro,Eletrônicos,Google Ads,Institucional,3811.1,2414.84,16.59
+2302,2024-10-21,Teclado Mecânico,Periféricos,Influencers,Semana Tech,309.14,201.29,106.75
+2303,2024-05-14,Cadeira Gamer,Móveis,Email Marketing,Institucional,873.45,529.16,46.95
+2304,2024-01-08,Cadeira Gamer,Móveis,Email Marketing,Nenhuma,815.68,563.11,37.03
+2305,2024-10-12,Notebook Pro,Eletrônicos,Facebook Ads,Semana Tech,3210.94,2062.1,78.77
+2306,2024-04-26,Notebook Pro,Eletrônicos,Email Marketing,Semana Tech,3839.22,2389.95,61.7
+2307,2024-03-06,Mesa Escritório,Móveis,Email Marketing,Black Friday,648.99,435.62,79.88
+2308,2024-02-14,Smartphone X,Eletrônicos,Google Ads,Nenhuma,2078.89,1435.0,40.7
+2309,2024-02-06,Smartphone X,Eletrônicos,Google Ads,Black Friday,1901.0,1190.24,63.46
+2310,2024-07-15,Teclado Mecânico,Periféricos,Email Marketing,Semana Tech,289.28,187.0,75.33
+2311,2024-11-24,Cadeira Gamer,Móveis,Email Marketing,Semana Tech,841.01,521.13,53.94
+2312,2024-08-19,"Monitor 27""",Periféricos,Google Ads,Verão Ofertas,1120.23,762.94,53.98
+2313,2024-12-15,Smartphone X,Eletrônicos,Facebook Ads,Institucional,1994.58,1344.8,24.19
+2314,2024-07-21,Notebook Pro,Eletrônicos,Influencers,Nenhuma,3326.15,2132.96,133.61
+2315,2024-01-12,Smartphone X,Eletrônicos,Google Ads,Institucional,2049.83,1322.88,20.85
+2316,2024-08-28,Teclado Mecânico,Periféricos,Influencers,Institucional,285.59,188.08,138.86
+2317,2024-08-20,Teclado Mecânico,Periféricos,Email Marketing,Verão Ofertas,288.72,196.87,76.18
+2318,2024-01-08,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1287.15,841.96,13.62
+2319,2024-09-13,"Monitor 27""",Periféricos,Influencers,Institucional,1172.89,769.53,88.52
+2320,2024-09-19,Mesa Escritório,Móveis,Orgânico,Nenhuma,657.48,416.79,0.0
+2321,2024-12-24,Teclado Mecânico,Periféricos,Facebook Ads,Semana Tech,326.21,227.44,27.74
+2322,2024-11-03,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3539.97,2392.25,20.92
+2323,2024-11-03,Smartphone X,Eletrônicos,Email Marketing,Black Friday,1929.87,1274.11,14.91
+2324,2024-09-17,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,270.74,180.59,0.0
+2325,2024-02-11,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3281.72,2274.67,0.0
+2326,2024-03-24,Smartphone X,Eletrônicos,Facebook Ads,Nenhuma,1819.6,1213.22,44.05
+2327,2024-10-28,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1161.85,724.69,0.0
+2328,2024-03-31,Cadeira Gamer,Móveis,Orgânico,Nenhuma,747.98,495.95,0.0
+2329,2024-07-20,Smartphone X,Eletrônicos,Facebook Ads,Institucional,2189.27,1434.43,75.24
+2330,2024-07-30,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,304.45,212.67,0.0
+2331,2024-11-06,Cadeira Gamer,Móveis,Influencers,Semana Tech,850.19,528.02,128.73
+2332,2024-12-21,"Monitor 27""",Periféricos,Email Marketing,Verão Ofertas,1292.19,814.68,53.33
+2333,2024-02-19,Cadeira Gamer,Móveis,Google Ads,Institucional,767.16,532.68,41.46
+2334,2024-08-18,"Monitor 27""",Periféricos,Influencers,Verão Ofertas,1187.97,720.53,154.19
+2335,2024-07-16,Cadeira Gamer,Móveis,Orgânico,Nenhuma,778.09,474.22,0.0
+2336,2024-12-03,"Monitor 27""",Periféricos,Google Ads,Institucional,1174.93,719.38,21.22
+2337,2024-12-02,Notebook Pro,Eletrônicos,Email Marketing,Semana Tech,3221.19,2186.94,33.81
+2338,2024-10-25,Cadeira Gamer,Móveis,Influencers,Verão Ofertas,788.56,489.68,117.18
+2339,2024-04-17,Cadeira Gamer,Móveis,Influencers,Semana Tech,790.48,508.74,170.74
+2340,2024-03-02,Teclado Mecânico,Periféricos,Influencers,Nenhuma,305.94,196.83,193.66
+2341,2024-01-18,Mesa Escritório,Móveis,Influencers,Nenhuma,636.31,402.36,115.32
+2342,2024-12-07,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,301.57,189.09,171.91
+2343,2024-05-27,Cadeira Gamer,Móveis,Google Ads,Black Friday,819.35,502.7,65.8
+2344,2024-01-26,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1981.51,1341.81,0.0
+2345,2024-02-06,Cadeira Gamer,Móveis,Google Ads,Black Friday,839.34,524.98,54.27
+2346,2024-02-18,Mesa Escritório,Móveis,Influencers,Institucional,622.7,382.57,196.67
+2347,2024-12-25,Notebook Pro,Eletrônicos,Email Marketing,Nenhuma,3377.72,2305.22,15.71
+2348,2024-12-08,Notebook Pro,Eletrônicos,Influencers,Black Friday,3834.35,2493.12,54.78
+2349,2024-03-31,Cadeira Gamer,Móveis,Email Marketing,Semana Tech,874.01,536.14,31.71
+2350,2024-12-08,Smartphone X,Eletrônicos,Facebook Ads,Semana Tech,1904.32,1318.22,70.67
+2351,2024-07-05,"Monitor 27""",Periféricos,Influencers,Semana Tech,1260.77,813.94,111.51
+2352,2024-02-12,Smartphone X,Eletrônicos,Email Marketing,Semana Tech,2115.6,1319.23,23.2
+2353,2024-07-05,Teclado Mecânico,Periféricos,Email Marketing,Black Friday,286.76,173.11,58.48
+2354,2024-05-14,"Monitor 27""",Periféricos,Influencers,Verão Ofertas,1270.4,770.15,197.07
+2355,2024-06-14,Mesa Escritório,Móveis,Google Ads,Nenhuma,548.6,368.99,41.82
+2356,2024-03-23,"Monitor 27""",Periféricos,Google Ads,Institucional,1128.04,746.45,18.97
+2357,2024-01-18,Mesa Escritório,Móveis,Facebook Ads,Black Friday,627.68,430.21,22.31
+2358,2024-05-15,Cadeira Gamer,Móveis,Orgânico,Nenhuma,735.09,442.73,0.0
+2359,2024-03-24,"Monitor 27""",Periféricos,Email Marketing,Institucional,1229.97,816.97,57.97
+2360,2024-07-14,Mesa Escritório,Móveis,Email Marketing,Nenhuma,642.37,430.96,48.69
+2361,2024-02-05,Notebook Pro,Eletrônicos,Google Ads,Nenhuma,3169.59,2129.67,39.17
+2362,2024-09-04,Mesa Escritório,Móveis,Influencers,Black Friday,566.46,376.58,146.59
+2363,2024-07-03,Mesa Escritório,Móveis,Email Marketing,Black Friday,607.73,382.2,49.11
+2364,2024-05-18,"Monitor 27""",Periféricos,Google Ads,Institucional,1146.84,784.12,29.37
+2365,2024-01-17,Smartphone X,Eletrônicos,Google Ads,Nenhuma,2174.68,1369.26,57.79
+2366,2024-01-27,Teclado Mecânico,Periféricos,Influencers,Black Friday,296.21,193.1,96.34
+2367,2024-06-23,Notebook Pro,Eletrônicos,Influencers,Black Friday,3542.98,2338.99,191.3
+2368,2024-08-05,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1144.4,698.1,26.37
+2369,2024-04-02,Smartphone X,Eletrônicos,Facebook Ads,Nenhuma,2192.84,1410.58,62.43
+2370,2024-12-22,Cadeira Gamer,Móveis,Orgânico,Nenhuma,827.5,578.69,0.0
+2371,2024-01-23,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1299.79,826.33,0.0
+2372,2024-04-10,Cadeira Gamer,Móveis,Influencers,Nenhuma,793.03,540.53,87.64
+2373,2024-04-29,"Monitor 27""",Periféricos,Google Ads,Institucional,1112.6,722.4,69.5
+2374,2024-03-23,Mesa Escritório,Móveis,Facebook Ads,Institucional,640.56,404.26,72.12
+2375,2024-01-25,Teclado Mecânico,Periféricos,Orgânico,Nenhuma,272.46,189.78,0.0
+2376,2024-08-03,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1298.24,836.78,0.0
+2377,2024-02-05,Teclado Mecânico,Periféricos,Influencers,Institucional,296.38,189.46,77.42
+2378,2024-08-03,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3708.9,2284.39,0.0
+2379,2024-02-09,Notebook Pro,Eletrônicos,Facebook Ads,Institucional,3370.59,2206.41,25.91
+2380,2024-02-11,"Monitor 27""",Periféricos,Facebook Ads,Institucional,1286.12,820.16,16.57
+2381,2024-05-30,Cadeira Gamer,Móveis,Orgânico,Nenhuma,843.37,554.32,0.0
+2382,2024-09-22,Smartphone X,Eletrônicos,Email Marketing,Semana Tech,2185.43,1373.06,56.18
+2383,2024-07-21,Smartphone X,Eletrônicos,Facebook Ads,Black Friday,2088.9,1372.95,23.48
+2384,2024-02-21,Cadeira Gamer,Móveis,Influencers,Nenhuma,814.47,532.04,184.95
+2385,2024-11-10,Mesa Escritório,Móveis,Orgânico,Nenhuma,615.34,399.24,0.0
+2386,2024-02-09,Mesa Escritório,Móveis,Facebook Ads,Black Friday,571.71,346.5,26.85
+2387,2024-05-10,Mesa Escritório,Móveis,Orgânico,Nenhuma,594.81,401.04,0.0
+2388,2024-02-03,Teclado Mecânico,Periféricos,Google Ads,Semana Tech,284.3,176.55,33.95
+2389,2024-11-27,Teclado Mecânico,Periféricos,Facebook Ads,Nenhuma,297.21,200.93,39.36
+2390,2024-07-27,Notebook Pro,Eletrônicos,Google Ads,Black Friday,3406.6,2299.39,59.4
+2391,2024-07-18,Cadeira Gamer,Móveis,Influencers,Verão Ofertas,775.55,512.74,196.3
+2392,2024-07-25,Mesa Escritório,Móveis,Orgânico,Nenhuma,557.15,354.32,0.0
+2393,2024-08-05,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3500.75,2224.99,0.0
+2394,2024-02-21,"Monitor 27""",Periféricos,Facebook Ads,Institucional,1123.42,743.85,57.28
+2395,2024-02-19,Teclado Mecânico,Periféricos,Google Ads,Institucional,271.94,163.69,42.42
+2396,2024-01-26,"Monitor 27""",Periféricos,Google Ads,Verão Ofertas,1313.27,816.01,11.16
+2397,2024-06-30,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3228.19,2145.69,0.0
+2398,2024-03-03,Mesa Escritório,Móveis,Influencers,Nenhuma,549.04,345.7,159.77
+2399,2024-01-18,Mesa Escritório,Móveis,Google Ads,Nenhuma,610.41,401.17,66.41
+2400,2024-05-26,Mesa Escritório,Móveis,Google Ads,Nenhuma,568.53,394.11,62.47
+2401,2024-06-08,Smartphone X,Eletrônicos,Google Ads,Verão Ofertas,1846.43,1122.69,62.84
+2402,2024-01-07,Smartphone X,Eletrônicos,Facebook Ads,Nenhuma,1909.58,1184.72,11.53
+2403,2024-10-28,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2160.12,1502.18,0.0
+2404,2024-05-31,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2076.04,1268.74,0.0
+2405,2024-10-11,Smartphone X,Eletrônicos,Influencers,Nenhuma,2018.09,1353.67,144.91
+2406,2024-10-01,Mesa Escritório,Móveis,Google Ads,Nenhuma,605.15,403.28,78.34
+2407,2024-05-16,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3750.25,2567.54,0.0
+2408,2024-07-11,Mesa Escritório,Móveis,Orgânico,Nenhuma,546.31,334.56,0.0
+2409,2024-09-13,Cadeira Gamer,Móveis,Influencers,Black Friday,751.02,477.56,193.17
+2410,2024-02-25,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3684.77,2455.32,0.0
+2411,2024-08-18,Smartphone X,Eletrônicos,Google Ads,Black Friday,2022.73,1306.56,68.96
+2412,2024-07-22,"Monitor 27""",Periféricos,Google Ads,Black Friday,1314.17,858.0,25.49
+2413,2024-04-19,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,655.14,429.25,31.17
+2414,2024-05-04,"Monitor 27""",Periféricos,Email Marketing,Institucional,1106.84,757.5,16.67
+2415,2024-02-21,Smartphone X,Eletrônicos,Google Ads,Verão Ofertas,1922.32,1235.73,30.12
+2416,2024-07-19,Notebook Pro,Eletrônicos,Email Marketing,Nenhuma,3627.95,2185.63,78.15
+2417,2024-08-29,Mesa Escritório,Móveis,Email Marketing,Semana Tech,578.2,392.3,52.56
+2418,2024-06-25,Smartphone X,Eletrônicos,Influencers,Black Friday,2117.06,1272.46,72.99
+2419,2024-10-03,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,586.94,354.77,19.05
+2420,2024-10-02,Mesa Escritório,Móveis,Email Marketing,Semana Tech,586.89,367.02,28.74
+2421,2024-12-18,"Monitor 27""",Periféricos,Email Marketing,Nenhuma,1080.48,666.76,65.47
+2422,2024-09-16,Mesa Escritório,Móveis,Facebook Ads,Institucional,652.14,413.78,75.15
+2423,2024-11-11,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,308.89,195.9,36.17
+2424,2024-08-15,Smartphone X,Eletrônicos,Influencers,Black Friday,1924.97,1178.16,120.8
+2425,2024-11-03,"Monitor 27""",Periféricos,Facebook Ads,Black Friday,1220.26,781.74,62.05
+2426,2024-07-13,Mesa Escritório,Móveis,Influencers,Semana Tech,599.8,399.59,88.45
+2427,2024-05-02,Cadeira Gamer,Móveis,Influencers,Institucional,823.13,513.26,82.37
+2428,2024-10-10,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1830.47,1276.67,0.0
+2429,2024-08-02,Notebook Pro,Eletrônicos,Facebook Ads,Semana Tech,3757.25,2267.6,39.5
+2430,2024-03-21,Smartphone X,Eletrônicos,Orgânico,Nenhuma,2069.21,1243.58,0.0
+2431,2024-02-04,Mesa Escritório,Móveis,Influencers,Nenhuma,659.63,428.83,102.64
+2432,2024-02-22,Teclado Mecânico,Periféricos,Google Ads,Semana Tech,279.24,181.72,54.93
+2433,2024-05-24,Teclado Mecânico,Periféricos,Google Ads,Verão Ofertas,287.93,195.04,47.86
+2434,2024-12-20,Notebook Pro,Eletrônicos,Email Marketing,Institucional,3331.83,2123.58,75.14
+2435,2024-12-13,Mesa Escritório,Móveis,Email Marketing,Nenhuma,651.55,401.88,14.19
+2436,2024-04-29,Mesa Escritório,Móveis,Influencers,Verão Ofertas,605.24,411.96,76.56
+2437,2024-05-11,Teclado Mecânico,Periféricos,Influencers,Nenhuma,310.3,205.79,102.82
+2438,2024-10-12,Smartphone X,Eletrônicos,Facebook Ads,Semana Tech,2188.9,1469.11,40.48
+2439,2024-12-11,Teclado Mecânico,Periféricos,Email Marketing,Verão Ofertas,293.34,187.89,74.07
+2440,2024-06-17,Cadeira Gamer,Móveis,Orgânico,Nenhuma,738.04,445.13,0.0
+2441,2024-09-04,Teclado Mecânico,Periféricos,Google Ads,Nenhuma,296.77,180.25,57.25
+2442,2024-08-25,Mesa Escritório,Móveis,Influencers,Nenhuma,551.52,336.41,199.49
+2443,2024-07-03,Notebook Pro,Eletrônicos,Influencers,Verão Ofertas,3319.22,2184.85,163.9
+2444,2024-01-29,Cadeira Gamer,Móveis,Influencers,Institucional,794.47,524.67,166.98
+2445,2024-06-12,"Monitor 27""",Periféricos,Email Marketing,Semana Tech,1201.75,758.52,70.71
+2446,2024-12-11,Cadeira Gamer,Móveis,Google Ads,Institucional,778.28,475.06,39.22
+2447,2024-08-05,"Monitor 27""",Periféricos,Email Marketing,Black Friday,1114.69,776.87,12.63
+2448,2024-07-04,Mesa Escritório,Móveis,Facebook Ads,Semana Tech,605.55,382.8,49.9
+2449,2024-04-05,Mesa Escritório,Móveis,Orgânico,Nenhuma,578.24,398.34,0.0
+2450,2024-07-17,Teclado Mecânico,Periféricos,Email Marketing,Semana Tech,323.87,200.98,64.78
+2451,2024-03-17,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1867.26,1294.49,0.0
+2452,2024-11-21,Teclado Mecânico,Periféricos,Google Ads,Black Friday,300.27,195.11,57.23
+2453,2024-09-17,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1934.41,1279.88,0.0
+2454,2024-06-03,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,309.12,213.95,134.49
+2455,2024-12-14,Cadeira Gamer,Móveis,Influencers,Institucional,877.9,591.19,108.22
+2456,2024-02-25,Notebook Pro,Eletrônicos,Facebook Ads,Verão Ofertas,3711.12,2402.4,16.29
+2457,2024-03-05,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3470.83,2236.97,0.0
+2458,2024-02-22,Notebook Pro,Eletrônicos,Influencers,Semana Tech,3584.4,2309.12,158.55
+2459,2024-02-27,Teclado Mecânico,Periféricos,Influencers,Institucional,289.63,195.43,189.96
+2460,2024-02-29,Mesa Escritório,Móveis,Email Marketing,Institucional,564.05,388.88,56.91
+2461,2024-11-29,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,320.45,208.48,125.34
+2462,2024-12-27,Notebook Pro,Eletrônicos,Influencers,Institucional,3520.83,2158.68,112.44
+2463,2024-10-23,Smartphone X,Eletrônicos,Email Marketing,Nenhuma,1802.68,1107.55,23.79
+2464,2024-07-31,"Monitor 27""",Periféricos,Orgânico,Nenhuma,1262.25,868.06,0.0
+2465,2024-07-10,Cadeira Gamer,Móveis,Influencers,Nenhuma,749.64,474.43,134.74
+2466,2024-04-16,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3299.23,2192.8,0.0
+2467,2024-12-15,"Monitor 27""",Periféricos,Facebook Ads,Institucional,1270.73,850.46,28.98
+2468,2024-09-04,Cadeira Gamer,Móveis,Facebook Ads,Verão Ofertas,878.05,601.78,54.35
+2469,2024-10-26,Notebook Pro,Eletrônicos,Google Ads,Semana Tech,3292.84,2181.28,71.5
+2470,2024-11-08,Smartphone X,Eletrônicos,Google Ads,Institucional,1960.64,1235.79,54.47
+2471,2024-09-09,Mesa Escritório,Móveis,Facebook Ads,Verão Ofertas,572.18,375.24,75.95
+2472,2024-10-01,Teclado Mecânico,Periféricos,Google Ads,Black Friday,271.18,186.07,46.99
+2473,2024-08-06,Teclado Mecânico,Periféricos,Influencers,Verão Ofertas,318.21,193.32,53.21
+2474,2024-06-16,"Monitor 27""",Periféricos,Google Ads,Semana Tech,1229.39,777.36,71.03
+2475,2024-02-11,Notebook Pro,Eletrônicos,Facebook Ads,Institucional,3468.44,2157.67,49.5
+2476,2024-11-09,Mesa Escritório,Móveis,Influencers,Black Friday,572.67,344.22,104.9
+2477,2024-08-25,Mesa Escritório,Móveis,Google Ads,Black Friday,649.36,414.97,71.95
+2478,2024-04-05,Cadeira Gamer,Móveis,Influencers,Black Friday,854.54,594.27,114.42
+2479,2024-09-01,"Monitor 27""",Periféricos,Influencers,Nenhuma,1260.31,833.07,74.76
+2480,2024-11-05,Mesa Escritório,Móveis,Orgânico,Nenhuma,590.07,365.69,0.0
+2481,2024-12-03,Mesa Escritório,Móveis,Orgânico,Nenhuma,548.36,370.01,0.0
+2482,2024-03-21,Cadeira Gamer,Móveis,Facebook Ads,Semana Tech,749.19,516.36,20.62
+2483,2024-06-29,Smartphone X,Eletrônicos,Email Marketing,Verão Ofertas,1910.99,1178.9,32.59
+2484,2024-07-06,Smartphone X,Eletrônicos,Facebook Ads,Nenhuma,1812.09,1088.68,64.0
+2485,2024-12-20,Smartphone X,Eletrônicos,Influencers,Nenhuma,2009.27,1291.98,199.67
+2486,2024-11-06,"Monitor 27""",Periféricos,Email Marketing,Nenhuma,1110.32,726.38,66.7
+2487,2024-11-02,"Monitor 27""",Periféricos,Google Ads,Semana Tech,1184.06,720.68,44.73
+2488,2024-12-26,Teclado Mecânico,Periféricos,Facebook Ads,Nenhuma,286.67,172.91,46.52
+2489,2024-10-04,Notebook Pro,Eletrônicos,Orgânico,Nenhuma,3345.69,2161.37,0.0
+2490,2024-03-15,Smartphone X,Eletrônicos,Email Marketing,Black Friday,2172.66,1377.0,30.52
+2491,2024-09-07,Mesa Escritório,Móveis,Facebook Ads,Black Friday,629.89,423.55,57.83
+2492,2024-11-15,Cadeira Gamer,Móveis,Google Ads,Black Friday,833.16,526.74,62.54
+2493,2024-10-02,Mesa Escritório,Móveis,Email Marketing,Verão Ofertas,585.39,389.32,28.94
+2494,2024-07-13,"Monitor 27""",Periféricos,Facebook Ads,Institucional,1240.91,771.36,72.88
+2495,2024-07-18,Mesa Escritório,Móveis,Email Marketing,Institucional,578.22,384.2,45.27
+2496,2024-02-20,"Monitor 27""",Periféricos,Influencers,Nenhuma,1162.83,813.86,119.49
+2497,2024-09-20,Smartphone X,Eletrônicos,Orgânico,Nenhuma,1917.08,1251.61,0.0
+2498,2024-07-18,Notebook Pro,Eletrônicos,Google Ads,Verão Ofertas,3341.96,2273.96,39.39
+2499,2024-03-15,"Monitor 27""",Periféricos,Influencers,Semana Tech,1258.75,758.52,169.86
