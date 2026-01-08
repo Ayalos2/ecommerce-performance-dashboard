@@ -26,5 +26,8 @@ A solução foi arquitetada focando em escalabilidade e baixo custo, utilizando 
 3.  Execute os scripts na pasta `/sql` para criar as Views Dimensionais.
 4.  Conecte o Looker Studio à View `f_vendas`.
 
+
+<img width="1404" height="918" alt="dashboard_screeshot" src="https://github.com/user-attachments/assets/068bbabc-4426-405c-9b0e-98774d3b2462" />
+
 ---
-*Projeto desenvolvido por [Seu Nome] - 2026*
+*Projeto desenvolvido por Reginaldo Ayalos - 2026*
