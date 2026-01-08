@@ -3,7 +3,7 @@
 ## 🏢 Visão Geral do Negócio
 Projeto de Business Intelligence end-to-end desenvolvido para monitorar a saúde financeira de um e-commerce fictício. O objetivo foi sair da análise operacional e entregar indicadores táticos para C-Level, focando em **Margem Líquida**, **Eficiência de Canal (ROI)** e **Sazonalidade**.
 
-**Link para o Dashboard Interativo:** [Insira o link do Looker Studio aqui]
+**Link para o Dashboard Interativo:** [https://lookerstudio.google.com/reporting/ccd69aee-f422-4603-9cb8-65afa229c18a]
 
 ![Dashboard Preview](assets/dashboard_screenshot.png)
 
@@ -25,9 +25,6 @@ A solução foi arquitetada focando em escalabilidade e baixo custo, utilizando 
 2.  Carregue o CSV no Google BigQuery.
 3.  Execute os scripts na pasta `/sql` para criar as Views Dimensionais.
 4.  Conecte o Looker Studio à View `f_vendas`.
-
-
-<img width="1404" height="918" alt="dashboard_screeshot" src="https://github.com/user-attachments/assets/068bbabc-4426-405c-9b0e-98774d3b2462" />
 
 ---
 *Projeto desenvolvido por Reginaldo Ayalos - 2026*
